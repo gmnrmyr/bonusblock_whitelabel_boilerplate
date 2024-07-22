@@ -1,0 +1,1 @@
+Our go-to foundation for whitelabel projects with BonusBlock. Tailored for seamless integration with Tailwind CSS, it follows Design Systems best practices. Our aim is to streamline Product design workflows. This open repository ensures scalability and a user-friendly experience for developers and UX professionals.
