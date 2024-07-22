@@ -1,0 +1,1 @@
+Welcome to BonusBlock, your go-to foundation for projects. Tailored for seamless integration with Tailwind CSS, it follows Design Systems best practices. Our aim is to streamline Product design workflows. This open repository ensures scalability and a user-friendly experience for developers and UX professionals.
