@@ -114,6 +114,63 @@
           "type": "color",
           "description": "Color.palette.brandsecond.950"
         }
+      },
+      "brandthird": {
+        "50": {
+          "value": "#F5F9F0",
+          "type": "color",
+          "description": "Color.palette.brandthird.50"
+        },
+        "100": {
+          "value": "#EBF4E1",
+          "type": "color",
+          "description": "Color.palette.brandthird.100"
+        },
+        "200": {
+          "value": "#D5E7C0",
+          "type": "color",
+          "description": "Color.palette.brandthird.200"
+        },
+        "300": {
+          "value": "#C1DCA2",
+          "type": "color",
+          "description": "Color.palette.brandthird.300"
+        },
+        "400": {
+          "value": "#ABCF81",
+          "type": "color",
+          "description": "Color.palette.brandthird.400"
+        },
+        "500": {
+          "value": "#96C463",
+          "type": "color",
+          "description": "Color.palette.brandthird.500\n(base for brandThird)"
+        },
+        "600": {
+          "value": "#79AA40",
+          "type": "color",
+          "description": "Color.palette.brandthird.600"
+        },
+        "700": {
+          "value": "#5C8231",
+          "type": "color",
+          "description": "Color.palette.brandthird.700"
+        },
+        "800": {
+          "value": "#3C5520",
+          "type": "color",
+          "description": "Color.palette.brandthird.800"
+        },
+        "900": {
+          "value": "#202C11",
+          "type": "color",
+          "description": "Color.palette.brandthird.900"
+        },
+        "950": {
+          "value": "#101608",
+          "type": "color",
+          "description": "Color.palette.brandthird.950"
+        }
       }
     },
     "button": {
