@@ -2,6 +2,41 @@
   "Color": {
     "palette": {
       "brandprim": {
+        "100": {
+          "value": "#E1EFFE",
+          "type": "color",
+          "description": "Color.palette.brandprim.100"
+        },
+        "200": {
+          "value": "#C3DDFD",
+          "type": "color",
+          "description": "Color.palette.brandprim.200"
+        },
+        "300": {
+          "value": "#A4CAFE",
+          "type": "color",
+          "description": "Color.palette.brandprim.300"
+        },
+        "400": {
+          "value": "#76A9FA",
+          "type": "color",
+          "description": "Color.palette.brandprim.400"
+        },
+        "500": {
+          "value": "#3F83F8",
+          "type": "color",
+          "description": "Color.palette.brandprim.500"
+        },
+        "600": {
+          "value": "#1C64F2",
+          "type": "color",
+          "description": "Color.palette.brandprim.600"
+        },
+        "700": {
+          "value": "#1A56DB",
+          "type": "color",
+          "description": "Color.palette.brandprim.700"
+        },
         "800": {
           "value": "#1E429F",
           "type": "color",
@@ -9,7 +44,8 @@
         },
         "900": {
           "value": "#233876",
-          "type": "color"
+          "type": "color",
+          "description": "Color.palette.brandprim.900"
         }
       }
     },

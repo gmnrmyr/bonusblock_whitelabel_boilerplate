@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
+    "shared/core",
     "shared/semantic-colors",
     "shared/typography",
-    "shared/core",
     "shared/icons",
     "grovve/pallete",
     "brand1/pallete",

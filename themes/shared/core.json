@@ -1,25 +1,89 @@
 {
   "core": {
     "font-size": {
+      "typescale": {
+        "xs": {
+          "value": "12px",
+          "type": "fontSizes",
+          "description": "core.font-size.REM.typescale.xs"
+        },
+        "sm": {
+          "value": "14px",
+          "type": "fontSizes",
+          "description": "core.font-size.REM.typescale.sm"
+        },
+        "base": {
+          "value": "18px",
+          "type": "fontSizes",
+          "description": "core.font-size.REM.typescale.base"
+        },
+        "xl": {
+          "value": "20px",
+          "type": "fontSizes",
+          "description": "core.font-size.REM.typescale.xl"
+        },
+        "2xl": {
+          "value": "24px",
+          "type": "fontSizes",
+          "description": "core.font-size.REM.typescale.2xl"
+        },
+        "3xl": {
+          "value": "30px",
+          "type": "fontSizes",
+          "description": "core.font-size.REM.typescale.3xl"
+        }
+      },
       "REM": {
-        "typescale": {
-          "xs": {
-            "value": "12",
-            "type": "fontSizes"
-          },
-          "sm": {
-            "value": "14",
-            "type": "fontSizes"
-          }
+        "value": "16px",
+        "type": "fontSizes"
+      }
+    },
+    "font-family": {
+      "primary": {
+        "main": {
+          "value": "Inter",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.main"
         }
       }
-    }
-  },
-  "doubletypobrand": {
-    "primary": {
-      "inter": {
-        "value": "Inter",
-        "type": "fontFamilies"
+    },
+    "dimension": {
+      "0": {
+        "value": "0px",
+        "type": "dimension",
+        "description": "core.dimension.0"
+      },
+      "100": {
+        "value": "100px",
+        "type": "dimension",
+        "description": "core.dimension.100"
+      }
+    },
+    "paragraph-spacing": {
+      "none": {
+        "value": "0",
+        "type": "paragraphSpacing",
+        "description": "core.paragraph-spacing.none"
+      },
+      "s": {
+        "value": "0.25",
+        "type": "paragraphSpacing",
+        "description": "core.paragraph-spacing.s"
+      },
+      "m": {
+        "value": "5",
+        "type": "paragraphSpacing",
+        "description": "core.paragraph-spacing.m"
+      },
+      "l": {
+        "value": "0.75",
+        "type": "paragraphSpacing",
+        "description": "core.paragraph-spacing.l"
+      },
+      "xl": {
+        "value": "1",
+        "type": "paragraphSpacing",
+        "description": "core.paragraph-spacing.xl"
       }
     }
   }
