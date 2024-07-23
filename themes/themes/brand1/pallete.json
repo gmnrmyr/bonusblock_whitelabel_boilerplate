@@ -7,5 +7,9 @@
     "value": "$core.Color.palette.brandprim.100",
     "type": "color",
     "description": "test2\n\nwondering why I cant reference them to the core colors... still need to figure out\nhttps://docs.tokens.studio/pt-br/tokens/aliases"
+  },
+  "test3": {
+    "value": "{Color.palette.brandprim.50}",
+    "type": "color"
   }
 }

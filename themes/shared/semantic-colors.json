@@ -2,103 +2,123 @@
   "Color": {
     "palette": {
       "brandprim": {
+        "50": {
+          "value": "#EBF2FE",
+          "type": "color",
+          "description": "Color.palette.brandprim.50"
+        },
         "100": {
-          "value": "#E1EFFE",
+          "value": "#D8E6FE",
           "type": "color",
           "description": "Color.palette.brandprim.100"
         },
         "200": {
-          "value": "#C3DDFD",
+          "value": "#B0CCFC",
           "type": "color",
           "description": "Color.palette.brandprim.200"
         },
         "300": {
-          "value": "#A4CAFE",
+          "value": "#8EB6FB",
           "type": "color",
           "description": "Color.palette.brandprim.300"
         },
         "400": {
-          "value": "#76A9FA",
+          "value": "#669CF9",
           "type": "color",
           "description": "Color.palette.brandprim.400"
         },
         "500": {
           "value": "#3F83F8",
           "type": "color",
-          "description": "Color.palette.brandprim.500"
+          "description": "Color.palette.brandprim.500\n(base for brandprim)"
         },
         "600": {
-          "value": "#1C64F2",
+          "value": "#095EF1",
           "type": "color",
           "description": "Color.palette.brandprim.600"
         },
         "700": {
-          "value": "#1A56DB",
+          "value": "#0747B6",
           "type": "color",
           "description": "Color.palette.brandprim.700"
         },
         "800": {
-          "value": "#1E429F",
+          "value": "#042E76",
           "type": "color",
           "description": "color.pallete.brandprim.800"
         },
         "900": {
-          "value": "#233876",
+          "value": "#02173B",
           "type": "color",
           "description": "Color.palette.brandprim.900"
+        },
+        "950": {
+          "value": "#010C1E",
+          "type": "color",
+          "description": "Color.palette.brandprim.950"
         }
       },
       "brandsecond": {
+        "50": {
+          "value": "#F5F9F0",
+          "type": "color",
+          "description": "Color.palette.brandsecond.50"
+        },
         "100": {
-          "value": "#E1EFFE",
+          "value": "#EBF4E1",
           "type": "color",
           "description": "Color.palette.brandsecond.100"
         },
         "200": {
-          "value": "#C3DDFD",
+          "value": "#D5E7C0",
           "type": "color",
           "description": "Color.palette.brandsecond.200"
         },
         "300": {
-          "value": "#A4CAFE",
+          "value": "#C1DCA2",
           "type": "color",
           "description": "Color.palette.brandsecond.300"
         },
         "400": {
-          "value": "#76A9FA",
+          "value": "#ABCF81",
           "type": "color",
           "description": "Color.palette.brandsecond.400"
         },
         "500": {
-          "value": "#3F83F8",
+          "value": "#96C463",
           "type": "color",
-          "description": "Color.palette.brandsecond.500"
+          "description": "Color.palette.brandsecond.500\n(base for brandsecond)"
         },
         "600": {
-          "value": "#1C64F2",
+          "value": "#79AA40",
           "type": "color",
           "description": "Color.palette.brandsecond.600"
         },
         "700": {
-          "value": "#1A56DB",
+          "value": "#5C8231",
           "type": "color",
           "description": "Color.palette.brandsecond.700"
         },
         "800": {
-          "value": "#1E429F",
+          "value": "#3C5520",
           "type": "color",
           "description": "Color.palette.brandsecond.800"
         },
         "900": {
-          "value": "#233876",
+          "value": "#202C11",
           "type": "color",
           "description": "Color.palette.brandsecond.900"
+        },
+        "950": {
+          "value": "#101608",
+          "type": "color",
+          "description": "Color.palette.brandsecond.950"
         }
       }
     },
     "button": {
       "background": {
-        "primary": {
+        "surface": {
           "value": "{Color.palette.brandprim.900}",
           "type": "color",
           "description": "Color.button.background.primary"
@@ -122,7 +142,7 @@
             "description": "Color.base.color.fg.default"
           },
           "weak": {
-            "value": "{Color.palette.brandprim.100}",
+            "value": "{Color.palette.brandprim.50}",
             "type": "color"
           }
         }

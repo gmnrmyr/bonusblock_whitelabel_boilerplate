@@ -4,7 +4,14 @@
     "name": "web-light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source"
+      "shared/core": "source",
+      "themes/grovve/pallete": "disabled",
+      "themes/brand1/pallete": "disabled",
+      "themes/brand2/palette": "disabled",
+      "themes/brand2/typography": "disabled",
+      "themes/brand2/color": "disabled",
+      "shared/round_stylebrand": "disabled",
+      "shared/edgy_stylebrand": "disabled"
     },
     "group": "themes"
   },
@@ -13,7 +20,14 @@
     "name": "brand-light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source"
+      "shared/core": "source",
+      "themes/grovve/pallete": "disabled",
+      "themes/brand1/pallete": "disabled",
+      "themes/brand2/palette": "disabled",
+      "themes/brand2/typography": "disabled",
+      "themes/brand2/color": "disabled",
+      "shared/round_stylebrand": "disabled",
+      "shared/edgy_stylebrand": "disabled"
     },
     "group": "themes"
   },
@@ -26,7 +40,13 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "brand1/pallete": "source"
+      "themes/grovve/pallete": "disabled",
+      "themes/brand1/pallete": "source",
+      "themes/brand2/palette": "disabled",
+      "themes/brand2/typography": "disabled",
+      "themes/brand2/color": "disabled",
+      "shared/round_stylebrand": "disabled",
+      "shared/edgy_stylebrand": "disabled"
     }
   },
   {
@@ -38,9 +58,31 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "brand2/palette": "source",
-      "brand2/typography": "source",
-      "brand2/color": "source"
+      "themes/grovve/pallete": "disabled",
+      "themes/brand1/pallete": "disabled",
+      "themes/brand2/palette": "source",
+      "themes/brand2/typography": "source",
+      "themes/brand2/color": "source",
+      "shared/round_stylebrand": "disabled",
+      "shared/edgy_stylebrand": "disabled"
     }
+  },
+  {
+    "id": "d0b741860a1482f479e565215f5edbd6280e72e1",
+    "name": "grovve",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source",
+      "shared/semantic-colors": "source",
+      "shared/typography": "source",
+      "shared/icons": "source",
+      "themes/grovve/pallete": "source",
+      "themes/brand2/palette": "source",
+      "themes/brand2/typography": "source",
+      "themes/brand2/color": "source",
+      "shared/round_stylebrand": "source",
+      "shared/edgy_stylebrand": "source"
+    },
+    "group": "themes"
   }
 ]
