@@ -4,18 +4,7 @@
     "name": "web-light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source",
-      "shared/semantic-colors": "disabled",
-      "shared/typography": "disabled",
-      "shared/icons": "disabled",
-      "grovve/pallete": "disabled",
-      "brand1/pallete": "disabled",
-      "brand2/palette": "disabled",
-      "brand2/typography": "disabled",
-      "brand2/color": "disabled",
-      "unusedatm/global": "disabled",
-      "unusedatm/dark": "disabled",
-      "unusedatm/larger": "disabled"
+      "shared/core": "source"
     },
     "group": "themes"
   },
@@ -24,18 +13,7 @@
     "name": "brand-light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source",
-      "shared/semantic-colors": "disabled",
-      "shared/typography": "disabled",
-      "shared/icons": "disabled",
-      "grovve/pallete": "disabled",
-      "brand1/pallete": "disabled",
-      "brand2/palette": "disabled",
-      "brand2/typography": "disabled",
-      "brand2/color": "disabled",
-      "unusedatm/global": "disabled",
-      "unusedatm/dark": "disabled",
-      "unusedatm/larger": "disabled"
+      "shared/core": "source"
     },
     "group": "themes"
   },
@@ -44,18 +22,7 @@
     "name": "brand-1",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source",
-      "shared/semantic-colors": "disabled",
-      "shared/typography": "disabled",
-      "shared/icons": "disabled",
-      "grovve/pallete": "disabled",
-      "brand1/pallete": "disabled",
-      "brand2/palette": "disabled",
-      "brand2/typography": "disabled",
-      "brand2/color": "disabled",
-      "unusedatm/global": "disabled",
-      "unusedatm/dark": "disabled",
-      "unusedatm/larger": "disabled"
+      "shared/core": "source"
     }
   },
   {
@@ -63,18 +30,7 @@
     "name": "brand-2",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source",
-      "shared/semantic-colors": "disabled",
-      "shared/typography": "disabled",
-      "shared/icons": "disabled",
-      "grovve/pallete": "disabled",
-      "brand1/pallete": "disabled",
-      "brand2/palette": "disabled",
-      "brand2/typography": "disabled",
-      "brand2/color": "disabled",
-      "unusedatm/global": "disabled",
-      "unusedatm/dark": "disabled",
-      "unusedatm/larger": "disabled"
+      "shared/core": "source"
     }
   }
 ]
