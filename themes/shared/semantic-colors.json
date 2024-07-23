@@ -20,7 +20,22 @@
           "type": "color",
           "description": "Color.button.background.primary"
         }
+      },
+      "primary": {
+        "solid": {
+          "idle": {
+            "value": "{Color.palette.brandprim.800}",
+            "type": "color"
+          }
+        }
       }
+    }
+  },
+  "size": {
+    "2xl": {
+      "value": "2xl",
+      "type": "sizing",
+      "description": "Edit this. Currently incorrect"
     }
   }
 }
