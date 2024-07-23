@@ -36,6 +36,13 @@
       "REM": {
         "value": "16px",
         "type": "fontSizes"
+      },
+      "shitsizes": {
+        "m": {
+          "value": "16",
+          "type": "fontSizes",
+          "description": "core.font-size.shitsizes.m\nnot final version"
+        }
       }
     },
     "font-family": {
@@ -290,7 +297,8 @@
         "fill": "{Color.palette.brandprim.900}",
         "borderRadius": ""
       },
-      "type": "composition"
+      "type": "composition",
+      "description": "yet to be implemented, not properly working yet."
     },
     "border-radius": {
       "1": {
@@ -307,9 +315,36 @@
           "type": "borderRadius"
         },
         "s": {
-          "value": "4",
+          "value": "{core.border-radius.scale} * 4",
           "type": "borderRadius",
           "description": "value yet to be defined"
+        },
+        "m": {
+          "value": "{core.border-radius.scale} * 6",
+          "type": "borderRadius",
+          "description": "value not yet defined."
+        },
+        "l": {
+          "value": "{core.border-radius.scale} * 8",
+          "type": "borderRadius",
+          "description": "value not yet defined"
+        },
+        "pill": {
+          "value": "16",
+          "type": "borderRadius",
+          "description": "value to be defined"
+        }
+      },
+      "selectable": {
+        "m": {
+          "value": "{core.border-radius.scale} * 6",
+          "type": "borderRadius",
+          "description": "value not yet defined."
+        },
+        "pill": {
+          "value": "16",
+          "type": "borderRadius",
+          "description": "value to be defined"
         }
       }
     }
