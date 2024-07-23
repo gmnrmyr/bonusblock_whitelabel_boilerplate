@@ -110,10 +110,25 @@
     },
     "color": {
       "pasteldenata": {
-        "500": {
+        "50": {
+          "value": "#FEF9F1",
+          "type": "color",
+          "description": "core.color.pasteldenata.50"
+        },
+        "800": {
+          "value": "#F6C974",
+          "type": "color",
+          "description": "core.color.pasteldenata.800"
+        },
+        "900": {
+          "value": "#F6C365",
+          "type": "color",
+          "description": "core.color.pasteldenata.900"
+        },
+        "950": {
           "value": "#F5BF5B",
           "type": "color",
-          "description": "core.color.pasteldenata.500"
+          "description": "core.color.pasteldenata.950"
         }
       },
       "obsidianshard": {
@@ -121,6 +136,53 @@
           "value": "#060612",
           "type": "color",
           "description": "core.color.obsidianshard.500"
+        }
+      },
+      "neutral": {
+        "50": {
+          "value": "#F9FAFB",
+          "type": "color",
+          "description": "core.color.neutral.50"
+        },
+        "100": {
+          "value": "#F3F4F6",
+          "type": "color",
+          "description": "core.color.neutral.100"
+        },
+        "200": {
+          "value": "#E5E7EB",
+          "type": "color",
+          "description": "core.color.neutral.200"
+        },
+        "300": {
+          "value": "#D1D5DB",
+          "type": "color",
+          "description": "core.color.neutral.300"
+        },
+        "400": {
+          "value": "#9CA3AF",
+          "type": "color",
+          "description": "core.color.neutral.400"
+        },
+        "500": {
+          "value": "#6B7280",
+          "type": "color",
+          "description": "core.color.neutral.500"
+        },
+        "600": {
+          "value": "#4B5563",
+          "type": "color",
+          "description": "core.color.neutral.600"
+        },
+        "700": {
+          "value": "#374151",
+          "type": "color",
+          "description": "core.color.neutral.700"
+        },
+        "800": {
+          "value": "#1F2A37",
+          "type": "color",
+          "description": "core.color.neutral.800"
         }
       }
     }
