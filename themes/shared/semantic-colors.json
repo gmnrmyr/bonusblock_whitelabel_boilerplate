@@ -1,0 +1,159 @@
+{
+  "Color": {
+    "palette": {
+      "brandprim": {
+        "50": {
+          "value": "#EBF2FE",
+          "type": "color",
+          "description": "Color.palette.brandprim.50"
+        },
+        "100": {
+          "value": "#D8E6FE",
+          "type": "color",
+          "description": "Color.palette.brandprim.100"
+        },
+        "200": {
+          "value": "#B0CCFC",
+          "type": "color",
+          "description": "Color.palette.brandprim.200"
+        },
+        "300": {
+          "value": "#8EB6FB",
+          "type": "color",
+          "description": "Color.palette.brandprim.300"
+        },
+        "400": {
+          "value": "#669CF9",
+          "type": "color",
+          "description": "Color.palette.brandprim.400"
+        },
+        "500": {
+          "value": "#3F83F8",
+          "type": "color",
+          "description": "Color.palette.brandprim.500\n(base for brandprim)"
+        },
+        "600": {
+          "value": "#095EF1",
+          "type": "color",
+          "description": "Color.palette.brandprim.600"
+        },
+        "700": {
+          "value": "#0747B6",
+          "type": "color",
+          "description": "Color.palette.brandprim.700"
+        },
+        "800": {
+          "value": "#042E76",
+          "type": "color",
+          "description": "color.pallete.brandprim.800"
+        },
+        "900": {
+          "value": "#02173B",
+          "type": "color",
+          "description": "Color.palette.brandprim.900"
+        },
+        "950": {
+          "value": "#010C1E",
+          "type": "color",
+          "description": "Color.palette.brandprim.950"
+        }
+      },
+      "brandsecond": {
+        "50": {
+          "value": "#F5F9F0",
+          "type": "color",
+          "description": "Color.palette.brandsecond.50"
+        },
+        "100": {
+          "value": "#EBF4E1",
+          "type": "color",
+          "description": "Color.palette.brandsecond.100"
+        },
+        "200": {
+          "value": "#D5E7C0",
+          "type": "color",
+          "description": "Color.palette.brandsecond.200"
+        },
+        "300": {
+          "value": "#C1DCA2",
+          "type": "color",
+          "description": "Color.palette.brandsecond.300"
+        },
+        "400": {
+          "value": "#ABCF81",
+          "type": "color",
+          "description": "Color.palette.brandsecond.400"
+        },
+        "500": {
+          "value": "#96C463",
+          "type": "color",
+          "description": "Color.palette.brandsecond.500\n(base for brandsecond)"
+        },
+        "600": {
+          "value": "#79AA40",
+          "type": "color",
+          "description": "Color.palette.brandsecond.600"
+        },
+        "700": {
+          "value": "#5C8231",
+          "type": "color",
+          "description": "Color.palette.brandsecond.700"
+        },
+        "800": {
+          "value": "#3C5520",
+          "type": "color",
+          "description": "Color.palette.brandsecond.800"
+        },
+        "900": {
+          "value": "#202C11",
+          "type": "color",
+          "description": "Color.palette.brandsecond.900"
+        },
+        "950": {
+          "value": "#101608",
+          "type": "color",
+          "description": "Color.palette.brandsecond.950"
+        }
+      }
+    },
+    "button": {
+      "background": {
+        "surface": {
+          "value": "{Color.palette.brandprim.900}",
+          "type": "color",
+          "description": "Color.button.background.primary"
+        }
+      },
+      "primary": {
+        "solid": {
+          "idle": {
+            "value": "{Color.palette.brandprim.800}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "base": {
+      "color": {
+        "fg": {
+          "default": {
+            "value": "{Color.palette.brandprim.500}",
+            "type": "color",
+            "description": "Color.base.color.fg.default"
+          },
+          "weak": {
+            "value": "{Color.palette.brandprim.50}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "size": {
+    "2xl": {
+      "value": "2xl",
+      "type": "sizing",
+      "description": "Edit this. Currently incorrect"
+    }
+  }
+}

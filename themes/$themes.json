@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "id": "a23f65a5f164734b477f780b9bb4ea57bc67d848",
+    "name": "web-light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "9071278f5f6d07362e5601f375da1832a5a32676",
+    "name": "brand-light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source"
+    },
+    "group": "themes"
+  },
+  {
+    "id": "868ef2089c615e972b894942c697bc762617acb9",
+    "name": "brand-1",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source",
+      "shared/semantic-colors": "source",
+      "shared/typography": "source",
+      "shared/icons": "source",
+      "themes/brand1/pallete": "source"
+    }
+  },
+  {
+    "id": "23c0750cce37f81cab4d3c056a9bc4ad2712807b",
+    "name": "brand-2",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source",
+      "shared/semantic-colors": "source",
+      "shared/typography": "source",
+      "shared/icons": "source",
+      "themes/brand2/palette": "source",
+      "themes/brand2/typography": "source",
+      "themes/brand2/color": "source"
+    }
+  },
+  {
+    "id": "d0b741860a1482f479e565215f5edbd6280e72e1",
+    "name": "grovve",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source",
+      "shared/semantic-colors": "source",
+      "shared/typography": "source",
+      "shared/icons": "source",
+      "themes/grovve/pallete": "source",
+      "themes/brand2/palette": "source",
+      "themes/brand2/typography": "source",
+      "themes/brand2/color": "source",
+      "shared/round_stylebrand": "source",
+      "shared/edgy_stylebrand": "source"
+    },
+    "group": "themes"
+  }
+]

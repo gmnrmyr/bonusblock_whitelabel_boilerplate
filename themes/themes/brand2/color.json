@@ -1,0 +1,19 @@
+{
+  "test": {
+    "value": "#ff8108",
+    "type": "color"
+  },
+  "core": {
+    "icons": {
+      "ui": {
+        "bell": {
+          "value": {
+            "asset": "bell"
+          },
+          "type": "composition",
+          "description": "core.icons.ui.bell"
+        }
+      }
+    }
+  }
+}
