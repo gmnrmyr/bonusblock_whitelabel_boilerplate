@@ -1,10 +1,16 @@
 {
   "tokenSetOrder": [
-    "core",
-    "global",
-    "semantic",
-    "dark",
-    "larger",
-    "pallete"
+    "shared/semantic-colors",
+    "shared/typography",
+    "shared/core",
+    "shared/icons",
+    "grovve/pallete",
+    "brand1/pallete",
+    "brand2/palette",
+    "brand2/typography",
+    "brand2/color",
+    "unusedatm/larger",
+    "unusedatm/dark",
+    "unusedatm/global"
   ]
 }
