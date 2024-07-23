@@ -293,9 +293,24 @@
       "type": "composition"
     },
     "border-radius": {
-      "scale": {
-        "value": "0",
+      "1": {
+        "value": "{core.border-radius.scale} * 1",
         "type": "borderRadius"
+      },
+      "scale": {
+        "value": "1",
+        "type": "borderRadius"
+      },
+      "container": {
+        "none": {
+          "value": "0",
+          "type": "borderRadius"
+        },
+        "s": {
+          "value": "4",
+          "type": "borderRadius",
+          "description": "value yet to be defined"
+        }
       }
     }
   }
