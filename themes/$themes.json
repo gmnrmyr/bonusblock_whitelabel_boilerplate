@@ -22,7 +22,11 @@
     "name": "brand-1",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source"
+      "shared/core": "source",
+      "shared/semantic-colors": "source",
+      "shared/typography": "source",
+      "shared/icons": "source",
+      "brand1/pallete": "source"
     }
   },
   {
@@ -30,7 +34,13 @@
     "name": "brand-2",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source"
+      "shared/core": "source",
+      "shared/semantic-colors": "source",
+      "shared/typography": "source",
+      "shared/icons": "source",
+      "brand2/palette": "source",
+      "brand2/typography": "source",
+      "brand2/color": "source"
     }
   }
 ]
