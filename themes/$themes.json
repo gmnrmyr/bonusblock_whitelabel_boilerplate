@@ -4,14 +4,7 @@
     "name": "web-light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source",
-      "themes/grovve/pallete": "disabled",
-      "themes/brand1/pallete": "disabled",
-      "themes/brand2/palette": "disabled",
-      "themes/brand2/typography": "disabled",
-      "themes/brand2/color": "disabled",
-      "shared/round_stylebrand": "disabled",
-      "shared/edgy_stylebrand": "disabled"
+      "shared/core": "source"
     },
     "group": "themes"
   },
@@ -20,14 +13,7 @@
     "name": "brand-light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "shared/core": "source",
-      "themes/grovve/pallete": "disabled",
-      "themes/brand1/pallete": "disabled",
-      "themes/brand2/palette": "disabled",
-      "themes/brand2/typography": "disabled",
-      "themes/brand2/color": "disabled",
-      "shared/round_stylebrand": "disabled",
-      "shared/edgy_stylebrand": "disabled"
+      "shared/core": "source"
     },
     "group": "themes"
   },
@@ -40,13 +26,7 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/grovve/pallete": "disabled",
-      "themes/brand1/pallete": "source",
-      "themes/brand2/palette": "disabled",
-      "themes/brand2/typography": "disabled",
-      "themes/brand2/color": "disabled",
-      "shared/round_stylebrand": "disabled",
-      "shared/edgy_stylebrand": "disabled"
+      "themes/brand1/pallete": "source"
     }
   },
   {
@@ -58,13 +38,9 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/grovve/pallete": "disabled",
-      "themes/brand1/pallete": "disabled",
       "themes/brand2/palette": "source",
       "themes/brand2/typography": "source",
-      "themes/brand2/color": "source",
-      "shared/round_stylebrand": "disabled",
-      "shared/edgy_stylebrand": "disabled"
+      "themes/brand2/color": "source"
     }
   },
   {

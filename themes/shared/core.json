@@ -40,10 +40,20 @@
     },
     "font-family": {
       "primary": {
-        "main": {
+        "titles": {
           "value": "Inter",
           "type": "fontFamilies",
           "description": "core.font-family.primary.main"
+        },
+        "body": {
+          "value": "Inter",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.body"
+        },
+        "caption": {
+          "value": "Inter",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.caption"
         }
       }
     },
@@ -281,6 +291,12 @@
         "borderRadius": ""
       },
       "type": "composition"
+    },
+    "border-radius": {
+      "scale": {
+        "value": "0",
+        "type": "borderRadius"
+      }
     }
   }
 }
