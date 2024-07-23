@@ -1,1 +1,10 @@
-{}
+{
+  "test": {
+    "value": "{Color.palette.brandsecond.400}",
+    "type": "color"
+  },
+  "test2": {
+    "value": "{core.color.neutral.800}",
+    "type": "color"
+  }
+}

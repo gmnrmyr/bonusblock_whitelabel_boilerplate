@@ -2,5 +2,18 @@
   "grovve_test": {
     "value": "{Color.palette.brandprim.100}",
     "type": "color"
+  },
+  "grovvetest": {
+    "value": "{core.color.pasteldenata.500}",
+    "type": "color",
+    "description": "grovvetest"
+  },
+  "22111xxx": {
+    "value": "#a72ebd",
+    "type": "color"
+  },
+  "test": {
+    "value": "#ffeb35",
+    "type": "color"
   }
 }

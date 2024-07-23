@@ -1,6 +1,6 @@
 {
   "test": {
-    "value": "#ff8108",
+    "value": "{Color.palette.brandsecond.700}",
     "type": "color"
   },
   "core": {

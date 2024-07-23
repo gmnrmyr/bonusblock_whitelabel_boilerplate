@@ -46,19 +46,25 @@
   {
     "id": "d0b741860a1482f479e565215f5edbd6280e72e1",
     "name": "grovve",
-    "group": "themes",
     "selectedTokenSets": {
       "shared/core": "source",
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/grovve/pallete": "source",
-      "themes/brand2/palette": "source",
-      "themes/brand2/typography": "source",
-      "themes/brand2/color": "source",
-      "shared/round_stylebrand": "source",
-      "shared/edgy_stylebrand": "source"
+      "themes/grovve/pallete": "source"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "8624720c864a64ddef1d32a0fba3ace803d9e2ba",
+    "name": "brand3",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source",
+      "shared/semantic-colors": "source",
+      "shared/typography": "source",
+      "shared/icons": "source",
+      "themes/grovve/pallete": "source"
+    }
   }
 ]
