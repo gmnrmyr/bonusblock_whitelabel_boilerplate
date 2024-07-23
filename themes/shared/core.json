@@ -348,5 +348,27 @@
         }
       }
     }
+  },
+  "base": {
+    "typography": {
+      "title": {
+        "m": {
+          "value": {
+            "fontFamily": "{core.font-family.primary.titles}",
+            "fontSize": "{core.font-size.shitsizes.m}",
+            "fontWeight": "{base.font-weight.body}"
+          },
+          "type": "typography",
+          "description": "base.typography.title.m"
+        }
+      }
+    },
+    "font-weight": {
+      "body": {
+        "value": "400",
+        "type": "fontWeights",
+        "description": "base.font-family.body"
+      }
+    }
   }
 }
