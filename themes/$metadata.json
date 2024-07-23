@@ -1,6 +1,10 @@
 {
   "tokenSetOrder": [
+    "core",
     "global",
-    "dark"
+    "semantic",
+    "dark",
+    "larger",
+    "pallete"
   ]
 }

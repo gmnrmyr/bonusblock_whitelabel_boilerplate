@@ -1,5 +1,5 @@
 {
-  "color": {
+  "Color": {
     "palette": {
       "brandprim": {
         "800": {
@@ -12,12 +12,15 @@
           "type": "color"
         }
       }
-    }
-  },
-  "pixels": {
-    "2": {
-      "value": "2",
-      "type": "sizing"
+    },
+    "button": {
+      "background": {
+        "primary": {
+          "value": "{Color.palette.brandprim.900}",
+          "type": "color",
+          "description": "Color.button.background.primary"
+        }
+      }
     }
   }
 }
