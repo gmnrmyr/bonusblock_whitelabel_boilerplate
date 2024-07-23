@@ -53,6 +53,11 @@
         "type": "dimension",
         "description": "core.dimension.0"
       },
+      "6": {
+        "value": "12px",
+        "type": "dimension",
+        "description": "core.dimension.6"
+      },
       "100": {
         "value": "100px",
         "type": "dimension",
@@ -84,6 +89,39 @@
         "value": "1",
         "type": "paragraphSpacing",
         "description": "core.paragraph-spacing.xl"
+      }
+    },
+    "size": {
+      "0": {
+        "value": "0px",
+        "type": "sizing",
+        "description": "core.size.0"
+      },
+      "6": {
+        "value": "1px",
+        "type": "sizing",
+        "description": "core.size.6"
+      },
+      "12": {
+        "value": "2px",
+        "type": "sizing",
+        "description": "core.size.12"
+      }
+    },
+    "color": {
+      "pasteldenata": {
+        "500": {
+          "value": "#F5BF5B",
+          "type": "color",
+          "description": "core.color.pasteldenata.500"
+        }
+      },
+      "obsidianshard": {
+        "500": {
+          "value": "#060612",
+          "type": "color",
+          "description": "core.color.obsidianshard.500"
+        }
       }
     }
   }
