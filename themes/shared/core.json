@@ -1107,6 +1107,17 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "placeholder2": {
+      "value": {
+        "x": "4",
+        "y": "4",
+        "blur": "0",
+        "spread": "0",
+        "color": "{core.color.bg.surface}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "base": {
