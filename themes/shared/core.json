@@ -305,6 +305,11 @@
           "value": "#c42424",
           "type": "color",
           "description": "core.color.error.600test"
+        },
+        "700test": {
+          "value": "#c42424",
+          "type": "color",
+          "description": "core.color.error.700"
         }
       }
     },
