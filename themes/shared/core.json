@@ -452,22 +452,22 @@
         "description": "core.paragraph-spacing.none"
       },
       "s": {
-        "value": "0.25",
+        "value": "4",
         "type": "paragraphSpacing",
         "description": "core.paragraph-spacing.s"
       },
       "m": {
-        "value": "5",
+        "value": "8",
         "type": "paragraphSpacing",
         "description": "core.paragraph-spacing.m"
       },
       "l": {
-        "value": "0.75",
+        "value": "12",
         "type": "paragraphSpacing",
         "description": "core.paragraph-spacing.l"
       },
       "xl": {
-        "value": "1",
+        "value": "16",
         "type": "paragraphSpacing",
         "description": "core.paragraph-spacing.xl"
       }
