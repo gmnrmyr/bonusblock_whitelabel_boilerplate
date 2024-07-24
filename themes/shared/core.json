@@ -423,6 +423,26 @@
       "1200": {
         "value": "1200px",
         "type": "dimension"
+      },
+      "1300": {
+        "value": "1300px",
+        "type": "dimension"
+      },
+      "1400": {
+        "value": "1400px",
+        "type": "dimension"
+      },
+      "1500": {
+        "value": "1500px",
+        "type": "dimension"
+      },
+      "1600": {
+        "value": "1600px",
+        "type": "dimension"
+      },
+      "2000": {
+        "value": "2000px",
+        "type": "dimension"
       }
     },
     "paragraph-spacing": {
@@ -1069,6 +1089,12 @@
           "type": "borderRadius",
           "description": "value to be defined"
         }
+      }
+    },
+    "letter-spacing": {
+      "sm": {
+        "value": "1",
+        "type": "letterSpacing"
       }
     }
   },
