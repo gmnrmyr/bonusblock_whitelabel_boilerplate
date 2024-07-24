@@ -295,6 +295,12 @@
           "value": "{core.color.obsidianshard.400}",
           "type": "color"
         }
+      },
+      "error": {
+        "500": {
+          "value": "#c72828",
+          "type": "color"
+        }
       }
     },
     "missioncard": {
