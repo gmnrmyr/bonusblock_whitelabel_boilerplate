@@ -6,11 +6,7 @@
     "shared/icons",
     "shared/round_stylebrand",
     "shared/edgy_stylebrand",
-    "themes/brand1/pallete",
-    "themes/brand2/palette",
-    "themes/brand2/typography",
-    "themes/brand2/color",
-    "themes/grovve/pallete",
+    "themes/brand1/semantic",
     "unusedatm/larger",
     "unusedatm/dark",
     "unusedatm/global"

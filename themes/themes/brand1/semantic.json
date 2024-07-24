@@ -7,15 +7,15 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{Color.palette.brandthird.200}",
+          "value": "{brand1.color.role.scale.light}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{Color.palette.brandfifth.300}",
+          "value": "{brand1.color.role.scale.darkest}",
           "type": "color"
         },
         "action": {
-          "value": "{core.color.palette.brandfifth.200}",
+          "value": "{brand1.color.role.scale.light}",
           "type": "color"
         },
         "error": {
@@ -27,7 +27,7 @@
           "type": "color"
         },
         "information": {
-          "value": "{core.color.palette.brandfifth.950}",
+          "value": "{brand1.color.role.scale.default}",
           "type": "color"
         },
         "warning": {
@@ -35,15 +35,15 @@
           "type": "color"
         },
         "neutral": {
-          "value": "{Color.palette.brandprim.200}",
+          "value": "{brand1.color.role.scale.lighter}",
           "type": "color"
         },
         "highlight": {
-          "value": "{Color.palette.brandprim.200}",
+          "value": "{brand1.color.role.scale.lightest}",
           "type": "color"
         },
         "feedback": {
-          "value": "{Color.palette.brandprim.200}",
+          "value": "{brand1.color.role.scale.dark}",
           "type": "color"
         },
         "scale": {
@@ -72,7 +72,7 @@
             "type": "color"
           },
           "lightest": {
-            "value": "{Color.palette.brandfifth.100}",
+            "value": "{Color.palette.brandfifth.50}",
             "type": "color"
           }
         },
@@ -82,11 +82,11 @@
             "type": "color"
           },
           "border": {
-            "value": "{brand1.color.role.tertiary}",
+            "value": "{brand1.color.role.secondary}",
             "type": "color"
           },
           "surface": {
-            "value": "{core.color.palette.brandfifth.100}",
+            "value": "{brand1.color.role.scale.lightest}",
             "type": "color"
           },
           "icon": {
