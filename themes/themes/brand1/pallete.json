@@ -1,7 +1,11 @@
 {
-  "test": {
-    "value": "#c9158e",
-    "type": "color"
+  "brand1": {
+    "color": {
+      "primary": {
+        "value": "#c9158e",
+        "type": "color"
+      }
+    }
   },
   "test2": {
     "value": "$core.color.bg.surface",
@@ -11,5 +15,15 @@
   "test3": {
     "value": "{core.color.palette.brandprim.50}",
     "type": "color"
+  },
+  "H1": {
+    "value": {
+      "fontFamily": "{core.font-family.primary.titles}",
+      "fontWeight": "{base.font-weight.600}",
+      "fontSize": "{core.font-size.ennumerated.24}",
+      "textDecoration": "bold"
+    },
+    "type": "typography",
+    "description": "Wip"
   }
 }

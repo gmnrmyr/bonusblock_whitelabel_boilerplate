@@ -12,8 +12,20 @@
     "value": "#a72ebd",
     "type": "color"
   },
-  "test": {
-    "value": "#ffeb35",
-    "type": "color"
+  "brand1": {
+    "color": {
+      "primary": {
+        "value": "#ffeb35",
+        "type": "color"
+      }
+    }
+  },
+  "H1": {
+    "value": {
+      "fontFamily": "{core.font-family.primary.titles}",
+      "fontWeight": "{base.font-weight.600}",
+      "fontSize": "{core.font-size.ennumerated.20}"
+    },
+    "type": "typography"
   }
 }

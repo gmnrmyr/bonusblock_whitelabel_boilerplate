@@ -1,7 +1,11 @@
 {
-  "test": {
-    "value": "{core.color.palette.brandsecond.700}",
-    "type": "color"
+  "brand1": {
+    "color": {
+      "primary": {
+        "value": "{core.color.palette.brandsecond.700}",
+        "type": "color"
+      }
+    }
   },
   "core": {
     "icons": {

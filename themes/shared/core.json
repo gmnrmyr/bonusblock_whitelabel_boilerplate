@@ -196,6 +196,31 @@
           "type": "fontSizes",
           "description": "core.font-size.ennumerated.19"
         },
+        "20": {
+          "value": "{core.font-size.ennumerated.base} * 20",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.20"
+        },
+        "21": {
+          "value": "{core.font-size.ennumerated.base} * 21",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.21"
+        },
+        "22": {
+          "value": "{core.font-size.ennumerated.base} * 22",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.22"
+        },
+        "23": {
+          "value": "{core.font-size.ennumerated.base} * 23",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.23"
+        },
+        "24": {
+          "value": "{core.font-size.ennumerated.base} * 24",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.24"
+        },
         "base": {
           "value": "4",
           "type": "fontSizes",
@@ -551,6 +576,29 @@
             "type": "sizing",
             "description": "(s: 4 columns, m:8+ columns) <- to be worked out, same as value. Currently following Eric's"
           }
+        }
+      },
+      "icons": {
+        "s": {
+          "value": "{core.size.icons.base} * 2",
+          "type": "sizing"
+        },
+        "m": {
+          "value": "{core.size.icons.base} * 3",
+          "type": "sizing"
+        },
+        "l": {
+          "value": "{core.size.icons.base} * 5",
+          "type": "sizing"
+        },
+        "xl": {
+          "value": "{core.size.icons.base} * 10",
+          "type": "sizing"
+        },
+        "base": {
+          "value": "50",
+          "type": "sizing",
+          "description": "currently 50"
         }
       }
     },

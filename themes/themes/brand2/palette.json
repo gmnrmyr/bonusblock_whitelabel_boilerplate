@@ -1,7 +1,11 @@
 {
-  "test": {
-    "value": "{core.color.palette.brandsecond.400}",
-    "type": "color"
+  "brand1": {
+    "color": {
+      "primary": {
+        "value": "{core.color.palette.brandsecond.400}",
+        "type": "color"
+      }
+    }
   },
   "test2": {
     "value": "{core.color.palette.neutral.800}",
