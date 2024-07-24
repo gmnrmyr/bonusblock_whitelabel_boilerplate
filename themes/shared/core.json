@@ -1,52 +1,57 @@
 {
   "core": {
     "font-size": {
-      "typescale": {
+      "tailwindscale": {
         "xs": {
           "value": "12px",
           "type": "fontSizes",
-          "description": "core.font-size.REM.typescale.xs"
+          "description": "core.font-size.tailwindscale.xs"
         },
         "sm": {
           "value": "14px",
           "type": "fontSizes",
-          "description": "core.font-size.REM.typescale.sm"
+          "description": "core.font-size.tailwindscale.sm"
         },
         "base": {
           "value": "18px",
           "type": "fontSizes",
-          "description": "core.font-size.REM.typescale.base"
+          "description": "core.font-size.tailwindscale.base"
         },
         "xl": {
           "value": "20px",
           "type": "fontSizes",
-          "description": "core.font-size.REM.typescale.xl"
+          "description": "core.font-size.tailwindscale.xl"
         },
         "2xl": {
           "value": "24px",
           "type": "fontSizes",
-          "description": "core.font-size.REM.typescale.2xl"
+          "description": "core.font-size.tailwindscale.2xl"
         },
         "3xl": {
           "value": "30px",
           "type": "fontSizes",
-          "description": "core.font-size.REM.typescale.3xl"
+          "description": "core.font-size.tailwindscale.3xl"
         },
         "4xl": {
           "value": "36",
           "type": "fontSizes",
-          "description": "core.font-size.typescale.4xl"
+          "description": "core.font-size.tailwindscale.4xl"
         }
       },
       "REM": {
         "value": "16px",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "core.font-size.REM\ndefault scale 1 rem 16 px"
       },
-      "shitsizes": {
+      "typescale": {
         "m": {
           "value": "16",
           "type": "fontSizes",
           "description": "core.font-size.shitsizes.m\nnot final version"
+        },
+        "scale": {
+          "value": "100",
+          "type": "fontSizes"
         }
       }
     },
@@ -666,6 +671,13 @@
           "description": "value to be defined"
         }
       }
+    },
+    "ennumerated": {
+      "0": {
+        "value": "0",
+        "type": "fontSizes",
+        "description": "core.ennumerated.0"
+      }
     }
   },
   "base": {
@@ -674,7 +686,7 @@
         "m": {
           "value": {
             "fontFamily": "{core.font-family.primary.titles}",
-            "fontSize": "{core.font-size.shitsizes.m}",
+            "fontSize": "{core.font-size.typescale.m}",
             "fontWeight": "{base.font-weight.400}"
           },
           "type": "typography",
