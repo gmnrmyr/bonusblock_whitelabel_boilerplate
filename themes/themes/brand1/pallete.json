@@ -1,72 +1,98 @@
 {
   "brand1": {
     "color": {
-      "primary": {
-        "value": "#c9158e",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "action": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "error": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "information": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "iwarning": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "neutral": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "highlight": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "feedback": {
-        "value": "{Color.palette.brandprim.200}",
-        "type": "color"
-      },
-      "scale": {
-        "lightest": {
-          "value": "{brand1.color.primary}",
-          "type": "color"
-        }
-      },
-      "element": {
-        "text": {
-          "value": "{brand1.color.primary}",
+      "role": {
+        "primary": {
+          "value": "{core.color.palette.brandfifth.500}",
           "type": "color"
         },
-        "border": {
-          "value": "{brand1.color.primary}",
+        "secondary": {
+          "value": "{Color.palette.brandthird.200}",
           "type": "color"
         },
-        "surface": {
-          "value": "{brand1.color.primary}",
+        "tertiary": {
+          "value": "{Color.palette.brandfifth.300}",
           "type": "color"
         },
-        "icon": {
-          "value": "{brand1.color.primary}",
+        "action": {
+          "value": "{core.color.palette.brandfifth.200}",
           "type": "color"
+        },
+        "error": {
+          "value": "{core.color.error.600test}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{core.color.palette.greens4success.500}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{core.color.palette.brandfifth.950}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{core.color.palette.reds4error.500}",
+          "type": "color"
+        },
+        "neutral": {
+          "value": "{Color.palette.brandprim.200}",
+          "type": "color"
+        },
+        "highlight": {
+          "value": "{Color.palette.brandprim.200}",
+          "type": "color"
+        },
+        "feedback": {
+          "value": "{Color.palette.brandprim.200}",
+          "type": "color"
+        },
+        "scale": {
+          "darkest": {
+            "value": "{Color.palette.brandfifth.950}",
+            "type": "color"
+          },
+          "darker": {
+            "value": "{core.color.palette.brandfifth.900}",
+            "type": "color"
+          },
+          "dark": {
+            "value": "{Color.palette.brandfifth.800}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{Color.palette.brandfifth.500}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{Color.palette.brandfifth.400}",
+            "type": "color"
+          },
+          "lighter": {
+            "value": "{Color.palette.brandfifth.300}",
+            "type": "color"
+          },
+          "lightest": {
+            "value": "{Color.palette.brandfifth.100}",
+            "type": "color"
+          }
+        },
+        "element": {
+          "text": {
+            "value": "{brand1.color.role.primary}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{brand1.color.role.tertiary}",
+            "type": "color"
+          },
+          "surface": {
+            "value": "{core.color.palette.brandfifth.100}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{brand1.color.role.primary}",
+            "type": "color"
+          }
         }
       }
     }
