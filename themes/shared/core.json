@@ -1038,7 +1038,12 @@
       "400": {
         "value": "400",
         "type": "fontWeights",
-        "description": "base.font-family.body"
+        "description": "base.font-weight.400"
+      },
+      "600": {
+        "value": "600",
+        "type": "fontWeights",
+        "description": "base.font-weight.600"
       }
     }
   }
