@@ -45,13 +45,202 @@
       },
       "typescale": {
         "m": {
-          "value": "16",
+          "value": "{core.font-size.typescale.scale} * 10",
           "type": "fontSizes",
           "description": "core.font-size.shitsizes.m\nnot final version"
         },
         "scale": {
-          "value": "100",
+          "value": "1",
           "type": "fontSizes"
+        }
+      },
+      "ennumerated": {
+        "0": {
+          "value": "{core.font-size.ennumerated.base} * 0",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.0"
+        },
+        "1": {
+          "value": "{core.font-size.ennumerated.base} * 1",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.1"
+        },
+        "2": {
+          "value": "{core.font-size.ennumerated.base} * 2",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.2"
+        },
+        "3": {
+          "value": "{core.font-size.ennumerated.base} * 3",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.3"
+        },
+        "4": {
+          "value": "{core.font-size.ennumerated.base} * 4",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.4"
+        },
+        "5": {
+          "value": "{core.font-size.ennumerated.base} * 5",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.5"
+        },
+        "6": {
+          "value": "{core.font-size.ennumerated.base} * 6",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.6"
+        },
+        "7": {
+          "value": "{core.font-size.ennumerated.base} * 7",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.7"
+        },
+        "8": {
+          "value": "{core.font-size.ennumerated.base} * 8",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.8"
+        },
+        "9": {
+          "value": "{core.font-size.ennumerated.base} * 9",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.9"
+        },
+        "10": {
+          "value": "{core.font-size.ennumerated.base} * 10",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.10"
+        },
+        "11": {
+          "value": "{core.font-size.ennumerated.base} * 11",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.11"
+        },
+        "12": {
+          "value": "{core.font-size.ennumerated.base} * 12",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.12"
+        },
+        "13": {
+          "value": "{core.font-size.ennumerated.base} * 13",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.13"
+        },
+        "14": {
+          "value": "{core.font-size.ennumerated.base} * 14",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.14"
+        },
+        "15": {
+          "value": "{core.font-size.ennumerated.base} * 15",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.15"
+        },
+        "16": {
+          "value": "{core.font-size.ennumerated.base} * 16",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.16"
+        },
+        "17": {
+          "value": "{core.font-size.ennumerated.base} * 17",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.17"
+        },
+        "18": {
+          "value": "{core.font-size.ennumerated.base} * 18",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.18"
+        },
+        "19": {
+          "value": "{core.font-size.ennumerated.base} * 19",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.19"
+        },
+        "base": {
+          "value": "4",
+          "type": "fontSizes",
+          "description": "core.font-size.ennumerated.base"
+        }
+      },
+      "scaled": {
+        "50": {
+          "value": "{core.font-size.scaled.base} * 50",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.50"
+        },
+        "62": {
+          "value": "{core.font-size.scaled.base} * 62",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.62"
+        },
+        "75": {
+          "value": "{core.font-size.scaled.base} * 75",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.75"
+        },
+        "87": {
+          "value": "{core.font-size.scaled.base} * 87",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.87"
+        },
+        "100": {
+          "value": "{core.font-size.scaled.base} * 100",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.100"
+        },
+        "125": {
+          "value": "{core.font-size.scaled.base} * 125",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.125"
+        },
+        "150": {
+          "value": "{core.font-size.scaled.base} * 150",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.150"
+        },
+        "175": {
+          "value": "{core.font-size.scaled.base} * 175",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.175"
+        },
+        "200": {
+          "value": "{core.font-size.scaled.base} * 200",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.200"
+        },
+        "225": {
+          "value": "{core.font-size.scaled.base} * 225",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.225"
+        },
+        "275": {
+          "value": "{core.font-size.scaled.base} * 275",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.275"
+        },
+        "300": {
+          "value": "{core.font-size.scaled.base} * 300",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.300"
+        },
+        "325": {
+          "value": "{core.font-size.scaled.base} * 325",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.325"
+        },
+        "350": {
+          "value": "{core.font-size.scaled.base} * 350",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.350"
+        },
+        "375": {
+          "value": "{core.font-size.scaled.base} * 375",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.375"
+        },
+        "base": {
+          "value": "0.125",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.base"
         }
       }
     },
@@ -670,13 +859,6 @@
           "type": "borderRadius",
           "description": "value to be defined"
         }
-      }
-    },
-    "ennumerated": {
-      "0": {
-        "value": "0",
-        "type": "fontSizes",
-        "description": "core.ennumerated.0"
       }
     }
   },
