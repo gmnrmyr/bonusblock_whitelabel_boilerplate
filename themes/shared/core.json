@@ -44,14 +44,55 @@
         "description": "core.font-size.REM\ndefault scale 1 rem 16 px"
       },
       "typescale": {
-        "m": {
-          "value": "{core.font-size.typescale.scale} * 10",
+        "xxs": {
+          "value": "{core.font-size.typescale.base} * 3",
           "type": "fontSizes",
-          "description": "core.font-size.shitsizes.m\nnot final version"
+          "description": "core.font-size.typescale.xxs\nnot final version"
         },
-        "scale": {
+        "xs": {
+          "value": "{core.font-size.typescale.base} * 5",
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.xs\nnot final version"
+        },
+        "s": {
+          "value": "{core.font-size.typescale.base} * 7",
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.s\nnot final version"
+        },
+        "m": {
+          "value": "{core.font-size.typescale.base} * 10",
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.m\nnot final version"
+        },
+        "ml": {
+          "value": "{core.font-size.typescale.base} * 13",
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.ml\nnot final version"
+        },
+        "l": {
+          "value": "{core.font-size.typescale.base} * 15",
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.l\nnot final version"
+        },
+        "xl": {
+          "value": "{core.font-size.typescale.base} * 17",
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.xl\nnot final version"
+        },
+        "xxl": {
+          "value": "{core.font-size.typescale.base} * 20",
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.xxl\nnot final version"
+        },
+        "xxxl": {
+          "value": "{core.font-size.typescale.base} * 23",
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.xxxl\nnot final version"
+        },
+        "base": {
           "value": "1",
-          "type": "fontSizes"
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.base\nnot final value version"
         }
       },
       "ennumerated": {
@@ -236,6 +277,31 @@
           "value": "{core.font-size.scaled.base} * 375",
           "type": "fontSizes",
           "description": "core.font-size.scaled.375"
+        },
+        "400": {
+          "value": "{core.font-size.scaled.base} * 400",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.400"
+        },
+        "450": {
+          "value": "{core.font-size.scaled.base} * 450",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.450"
+        },
+        "500": {
+          "value": "{core.font-size.scaled.base} * 500",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.500"
+        },
+        "550": {
+          "value": "{core.font-size.scaled.base} * 550",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.550"
+        },
+        "600": {
+          "value": "{core.font-size.scaled.base} * 600",
+          "type": "fontSizes",
+          "description": "core.font-size.scaled.600"
         },
         "base": {
           "value": "0.125",
@@ -868,7 +934,7 @@
         "m": {
           "value": {
             "fontFamily": "{core.font-family.primary.titles}",
-            "fontSize": "{core.font-size.typescale.m}",
+            "fontSize": "{core.font-size.typescale.xxs}",
             "fontWeight": "{base.font-weight.400}"
           },
           "type": "typography",
