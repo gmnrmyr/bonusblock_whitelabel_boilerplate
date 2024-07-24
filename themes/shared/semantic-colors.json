@@ -117,59 +117,173 @@
       },
       "brandthird": {
         "50": {
-          "value": "#F5F9F0",
+          "value": "#FAEBF9",
           "type": "color",
           "description": "Color.palette.brandthird.50"
         },
         "100": {
-          "value": "#EBF4E1",
+          "value": "#F4D2F2",
           "type": "color",
           "description": "Color.palette.brandthird.100"
         },
         "200": {
-          "value": "#D5E7C0",
+          "value": "#EAA9E6",
           "type": "color",
           "description": "Color.palette.brandthird.200"
         },
         "300": {
-          "value": "#C1DCA2",
+          "value": "#DE7CD9",
           "type": "color",
           "description": "Color.palette.brandthird.300"
         },
         "400": {
-          "value": "#ABCF81",
+          "value": "#D454CE",
           "type": "color",
           "description": "Color.palette.brandthird.400"
         },
         "500": {
-          "value": "#96C463",
+          "value": "#C030BA",
           "type": "color",
           "description": "Color.palette.brandthird.500\n(base for brandThird)"
         },
         "600": {
-          "value": "#79AA40",
+          "value": "#9B2795",
           "type": "color",
           "description": "Color.palette.brandthird.600"
         },
         "700": {
-          "value": "#5C8231",
+          "value": "#721D6E",
           "type": "color",
           "description": "Color.palette.brandthird.700"
         },
         "800": {
-          "value": "#3C5520",
+          "value": "#4E134B",
           "type": "color",
           "description": "Color.palette.brandthird.800"
         },
         "900": {
-          "value": "#202C11",
+          "value": "#250923",
           "type": "color",
           "description": "Color.palette.brandthird.900"
         },
         "950": {
-          "value": "#101608",
+          "value": "#140514",
           "type": "color",
           "description": "Color.palette.brandthird.950"
+        }
+      },
+      "brandfourth": {
+        "50": {
+          "value": "#EBF8FA",
+          "type": "color",
+          "description": "Color.palette.brandfourth.50"
+        },
+        "100": {
+          "value": "#D2F0F4",
+          "type": "color",
+          "description": "Color.palette.brandfourth.100"
+        },
+        "200": {
+          "value": "#A9E3E9",
+          "type": "color",
+          "description": "Color.palette.brandfourth.200"
+        },
+        "300": {
+          "value": "#7DD4DE",
+          "type": "color",
+          "description": "Color.palette.brandfourth.300"
+        },
+        "400": {
+          "value": "#54C7D4",
+          "type": "color",
+          "description": "Color.palette.brandfourth.400"
+        },
+        "500": {
+          "value": "#30B0BF",
+          "type": "color",
+          "description": "Color.palette.brandfourth.500\n(base for brandFourth)"
+        },
+        "600": {
+          "value": "#278F9B",
+          "type": "color",
+          "description": "Color.palette.brandfourth.600"
+        },
+        "700": {
+          "value": "#1D6A72",
+          "type": "color",
+          "description": "Color.palette.brandfourth.700"
+        },
+        "800": {
+          "value": "#13484D",
+          "type": "color",
+          "description": "Color.palette.brandfourth.800"
+        },
+        "900": {
+          "value": "#092225",
+          "type": "color",
+          "description": "Color.palette.brandfourth.900"
+        },
+        "950": {
+          "value": "#051314",
+          "type": "color",
+          "description": "Color.palette.brandfourth.950"
+        }
+      },
+      "brandfifth": {
+        "50": {
+          "value": "#FAEFEB",
+          "type": "color",
+          "description": "Color.palette.brandfifth.50"
+        },
+        "100": {
+          "value": "#F4DCD2",
+          "type": "color",
+          "description": "Color.palette.brandfifth.100"
+        },
+        "200": {
+          "value": "#E9BDA9",
+          "type": "color",
+          "description": "Color.palette.brandfifth.200"
+        },
+        "300": {
+          "value": "#DE9A7D",
+          "type": "color",
+          "description": "Color.palette.brandfifth.300"
+        },
+        "400": {
+          "value": "#D47A54",
+          "type": "color",
+          "description": "Color.palette.brandfifth.400"
+        },
+        "500": {
+          "value": "#BF5A30",
+          "type": "color",
+          "description": "Color.palette.brandfifth.500\n(base for brandFifth)"
+        },
+        "600": {
+          "value": "#9B4A27",
+          "type": "color",
+          "description": "Color.palette.brandfifth.600"
+        },
+        "700": {
+          "value": "#72361D",
+          "type": "color",
+          "description": "Color.palette.brandfifth.700"
+        },
+        "800": {
+          "value": "#4D2513",
+          "type": "color",
+          "description": "Color.palette.brandfifth.800"
+        },
+        "900": {
+          "value": "#251109",
+          "type": "color",
+          "description": "Color.palette.brandfifth.900"
+        },
+        "950": {
+          "value": "#140A05",
+          "type": "color",
+          "description": "Color.palette.brandfifth.950"
         }
       }
     },

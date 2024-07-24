@@ -31,6 +31,11 @@
           "value": "30px",
           "type": "fontSizes",
           "description": "core.font-size.REM.typescale.3xl"
+        },
+        "4xl": {
+          "value": "36",
+          "type": "fontSizes",
+          "description": "core.font-size.typescale.4xl"
         }
       },
       "REM": {
