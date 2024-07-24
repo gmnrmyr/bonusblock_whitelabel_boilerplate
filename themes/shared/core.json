@@ -371,6 +371,58 @@
       "175": {
         "value": "175px",
         "type": "dimension"
+      },
+      "200": {
+        "value": "200px",
+        "type": "dimension"
+      },
+      "225": {
+        "value": "225px",
+        "type": "dimension"
+      },
+      "300": {
+        "value": "300px",
+        "type": "dimension"
+      },
+      "350": {
+        "value": "350px",
+        "type": "dimension"
+      },
+      "400": {
+        "value": "400px",
+        "type": "dimension"
+      },
+      "450": {
+        "value": "450px",
+        "type": "dimension"
+      },
+      "500": {
+        "value": "500px",
+        "type": "dimension"
+      },
+      "600": {
+        "value": "600px",
+        "type": "dimension"
+      },
+      "700": {
+        "value": "700px",
+        "type": "dimension"
+      },
+      "800": {
+        "value": "800px",
+        "type": "dimension"
+      },
+      "1000": {
+        "value": "1000px",
+        "type": "dimension"
+      },
+      "1100": {
+        "value": "1100px",
+        "type": "dimension"
+      },
+      "1200": {
+        "value": "1200px",
+        "type": "dimension"
       }
     },
     "paragraph-spacing": {
