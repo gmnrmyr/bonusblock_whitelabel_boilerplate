@@ -1,6 +1,6 @@
 {
   "test": {
-    "value": "{Color.palette.brandsecond.700}",
+    "value": "{core.color.palette.brandsecond.700}",
     "type": "color"
   },
   "core": {

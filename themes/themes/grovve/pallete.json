@@ -1,10 +1,10 @@
 {
   "grovve_test": {
-    "value": "{Color.palette.brandprim.100}",
+    "value": "{core.color.palette.brandprim.100}",
     "type": "color"
   },
   "grovvetest": {
-    "value": "{core.color.pasteldenata.500}",
+    "value": "{core.color.palette.pasteldenata.500}",
     "type": "color",
     "description": "grovvetest"
   },
