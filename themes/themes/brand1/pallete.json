@@ -4,6 +4,70 @@
       "primary": {
         "value": "#c9158e",
         "type": "color"
+      },
+      "secondary": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "action": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "information": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "iwarning": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "highlight": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "feedback": {
+        "value": "{Color.palette.brandprim.200}",
+        "type": "color"
+      },
+      "scale": {
+        "lightest": {
+          "value": "{brand1.color.primary}",
+          "type": "color"
+        }
+      },
+      "element": {
+        "text": {
+          "value": "{brand1.color.primary}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{brand1.color.primary}",
+          "type": "color"
+        },
+        "surface": {
+          "value": "{brand1.color.primary}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{brand1.color.primary}",
+          "type": "color"
+        }
       }
     }
   },
