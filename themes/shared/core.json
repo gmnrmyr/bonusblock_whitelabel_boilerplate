@@ -300,6 +300,11 @@
         "500": {
           "value": "#c72828",
           "type": "color"
+        },
+        "600test": {
+          "value": "#c42424",
+          "type": "color",
+          "description": "core.color.error.600test"
         }
       }
     },
