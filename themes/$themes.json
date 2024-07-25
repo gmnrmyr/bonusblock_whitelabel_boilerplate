@@ -5,7 +5,7 @@
     "group": "themes",
     "selectedTokenSets": {
       "shared/core": "source",
-      "themes/brand1/semantic": "disabled"
+      "themes/brand1/semantic_rework": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,7 +15,7 @@
     "group": "themes",
     "selectedTokenSets": {
       "shared/core": "source",
-      "themes/brand1/semantic": "disabled"
+      "themes/brand1/semantic_rework": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -27,7 +27,8 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/brand1/semantic": "source"
+      "themes/brand1/semantic": "source",
+      "themes/brand1/semantic_rework": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -39,7 +40,7 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/brand1/semantic": "disabled"
+      "themes/brand1/semantic_rework": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -51,7 +52,7 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/brand1/semantic": "disabled"
+      "themes/brand1/semantic_rework": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -63,7 +64,7 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/brand1/semantic": "disabled"
+      "themes/brand1/semantic_rework": "disabled"
     },
     "$figmaStyleReferences": {}
   }
