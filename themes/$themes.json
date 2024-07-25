@@ -4,10 +4,7 @@
     "name": "web-light",
     "group": "themes",
     "selectedTokenSets": {
-      "shared/core": "source",
-      "themes/brand1/semantic_rework_palette": "disabled",
-      "themes/brand1/semantic_rework_ui": "disabled",
-      "themes/brand1/semantic_rework_components": "disabled"
+      "shared/core": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -16,10 +13,7 @@
     "name": "brand-light",
     "group": "themes",
     "selectedTokenSets": {
-      "shared/core": "source",
-      "themes/brand1/semantic_rework_palette": "disabled",
-      "themes/brand1/semantic_rework_ui": "disabled",
-      "themes/brand1/semantic_rework_components": "disabled"
+      "shared/core": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -32,9 +26,9 @@
       "shared/typography": "source",
       "shared/icons": "source",
       "themes/brand1/semantic": "source",
-      "themes/brand1/semantic_rework_palette": "source",
       "themes/brand1/semantic_rework_ui": "source",
-      "themes/brand1/semantic_rework_components": "source"
+      "themes/brand1/semantic_rework_components": "source",
+      "themes/brand1/palette": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -45,10 +39,7 @@
       "shared/core": "source",
       "shared/semantic-colors": "source",
       "shared/typography": "source",
-      "shared/icons": "source",
-      "themes/brand1/semantic_rework_palette": "disabled",
-      "themes/brand1/semantic_rework_ui": "disabled",
-      "themes/brand1/semantic_rework_components": "disabled"
+      "shared/icons": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,10 +50,7 @@
       "shared/core": "source",
       "shared/semantic-colors": "source",
       "shared/typography": "source",
-      "shared/icons": "source",
-      "themes/brand1/semantic_rework_palette": "disabled",
-      "themes/brand1/semantic_rework_ui": "disabled",
-      "themes/brand1/semantic_rework_components": "disabled"
+      "shared/icons": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -73,10 +61,7 @@
       "shared/core": "source",
       "shared/semantic-colors": "source",
       "shared/typography": "source",
-      "shared/icons": "source",
-      "themes/brand1/semantic_rework_palette": "disabled",
-      "themes/brand1/semantic_rework_ui": "disabled",
-      "themes/brand1/semantic_rework_components": "disabled"
+      "shared/icons": "source"
     },
     "$figmaStyleReferences": {}
   }

@@ -1,31 +1,31 @@
 {
   "theme": {
     "surface": {
-      "value": "{base.secondary.400}",
+      "value": "{color.palette.secondary.400}",
       "type": "color"
     },
     "bg": {
-      "value": "{base.secondary.50}",
+      "value": "{color.palette.secondary.50}",
       "type": "color"
     },
     "surface_disabled": {
-      "value": "{base.secondary.500}",
+      "value": "{color.palette.secondary.500}",
       "type": "color"
     },
     "text": {
-      "value": "{base.secondary.950}",
+      "value": "{color.palette.secondary.950}",
       "type": "color"
     },
     "border": {
-      "value": "{base.primary.200}",
+      "value": "{color.palette.primary.200}",
       "type": "color"
     },
     "icon": {
-      "value": "{base.accent.600}",
+      "value": "{color.palette.accent.600}",
       "type": "color"
     },
     "accent": {
-      "value": "{base.accent.400}",
+      "value": "{color.palette.accent.400}",
       "type": "color"
     }
   }
