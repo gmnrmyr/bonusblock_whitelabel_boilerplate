@@ -1274,15 +1274,17 @@
       }
     },
     "font-weight": {
-      "400": {
-        "value": "400",
-        "type": "fontWeights",
-        "description": "base.font-weight.400"
+      "bold": {
+        "value": "bold",
+        "type": "fontWeights"
       },
-      "600": {
-        "value": "600",
-        "type": "fontWeights",
-        "description": "base.font-weight.600"
+      "regular": {
+        "value": "regular",
+        "type": "fontWeights"
+      },
+      "light": {
+        "value": "regular",
+        "type": "fontWeights"
       }
     }
   }
