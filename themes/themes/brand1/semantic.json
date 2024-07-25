@@ -8,7 +8,7 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{core.color.palette.brandprim.500}",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color"
           },
           "tertiary": {
@@ -20,11 +20,11 @@
             "type": "color"
           },
           "error": {
-            "value": "{core.color.palette.reds4error.500}",
+            "value": "{core.color.system.reds4error.500}",
             "type": "color"
           },
           "success": {
-            "value": "{core.color.palette.greens4success.500}",
+            "value": "{core.color.system.green4success.500}",
             "type": "color"
           },
           "information": {
@@ -32,7 +32,7 @@
             "type": "color"
           },
           "warning": {
-            "value": "{core.color.palette.reds4error.500}",
+            "value": "{core.color.system.reds4error.500}",
             "type": "color"
           },
           "neutral": {
@@ -67,31 +67,31 @@
           }
         },
         "darkest": {
-          "value": "{core.color.palette.brandfifth.950}",
+          "value": "{core.color.brandspallette.brandfifth.950}",
           "type": "color"
         },
         "darker": {
-          "value": "{core.color.palette.brandfifth.900}",
+          "value": "{core.color.brandspallette.brandfifth.900}",
           "type": "color"
         },
         "dark": {
-          "value": "{core.color.palette.brandfifth.800}",
+          "value": "{core.color.brandspallette.brandfifth.800}",
           "type": "color"
         },
         "default": {
-          "value": "{core.color.palette.brandfifth.500}",
+          "value": "{core.color.brandspallette.brandfifth.500}",
           "type": "color"
         },
         "light": {
-          "value": "{core.color.palette.brandfifth.400}",
+          "value": "{core.color.brandspallette.brandfifth.400}",
           "type": "color"
         },
         "lighter": {
-          "value": "{core.color.palette.brandfifth.300}",
+          "value": "{core.color.brandspallette.brandfifth.300}",
           "type": "color"
         },
         "lightest": {
-          "value": "{core.color.palette.brandfifth.50}",
+          "value": "{core.color.brandspallette.brandfifth.50}",
           "type": "color"
         }
       }
@@ -103,7 +103,7 @@
     "description": "test2\n\nwondering why I cant reference them to the core colors... still need to figure out\nhttps://docs.tokens.studio/pt-br/tokens/aliases\n\n(edit: working now)"
   },
   "test3": {
-    "value": "{core.color.palette.brandprim.50}",
+    "value": "{core.color.brandspallette.brandprim.50}",
     "type": "color"
   },
   "H1": {

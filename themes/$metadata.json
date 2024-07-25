@@ -7,7 +7,9 @@
     "shared/round_stylebrand",
     "shared/edgy_stylebrand",
     "themes/brand1/semantic",
-    "themes/brand1/semantic_rework",
+    "themes/brand1/semantic_rework_palette",
+    "themes/brand1/semantic_rework_ui",
+    "themes/brand1/semantic_rework_components",
     "unusedatm/larger",
     "unusedatm/dark",
     "unusedatm/global"

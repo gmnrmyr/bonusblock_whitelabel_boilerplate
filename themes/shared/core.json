@@ -603,7 +603,7 @@
       }
     },
     "color": {
-      "palette": {
+      "bbpalette": {
         "pasteldenata": {
           "50": {
             "value": "#FEF9F1",
@@ -715,7 +715,9 @@
             "type": "color",
             "description": "core.color.obsidianshard.950\n(base for obsidianshard)"
           }
-        },
+        }
+      },
+      "brandspallette": {
         "neutral": {
           "50": {
             "value": "#F9FAFB",
@@ -761,22 +763,14 @@
             "value": "#1F2A37",
             "type": "color",
             "description": "core.color.neutral.800"
-          }
-        },
-        "reds4error": {
-          "500": {
-            "value": "#c72828",
+          },
+          "900": {
+            "value": "#0c1015",
             "type": "color"
           },
-          "600test": {
-            "value": "#c42424",
-            "type": "color",
-            "description": "core.color.error.600test"
-          },
-          "700test": {
-            "value": "#c42424",
-            "type": "color",
-            "description": "core.color.error.700"
+          "950": {
+            "value": "#000",
+            "type": "color"
           }
         },
         "brandprim": {
@@ -1063,8 +1057,26 @@
             "type": "color",
             "description": "Color.palette.brandfifth.950"
           }
+        }
+      },
+      "system": {
+        "reds4error": {
+          "500": {
+            "value": "#c72828",
+            "type": "color"
+          },
+          "600test": {
+            "value": "#c42424",
+            "type": "color",
+            "description": "core.color.error.600test"
+          },
+          "700test": {
+            "value": "#c42424",
+            "type": "color",
+            "description": "core.color.error.700"
+          }
         },
-        "greens4success": {
+        "green4success": {
           "500": {
             "value": "#55c568",
             "type": "color",
@@ -1080,12 +1092,45 @@
             "type": "color",
             "description": "core.color.geens4success.700\n(placeholder)"
           }
+        },
+        "warning": {
+          "500": {
+            "value": "#ffef00",
+            "type": "color",
+            "description": "value not yet defined"
+          },
+          "600test": {
+            "value": "#a09715",
+            "type": "color",
+            "description": "core.color.palette.greens4success.600test\nvalue not yet defined (placeholder)"
+          },
+          "700test": {
+            "value": "#fde100",
+            "type": "color",
+            "description": "core.color.geens4success.700\n(placeholder)"
+          }
+        },
+        "blue4info": {
+          "500": {
+            "value": "#2b28c7",
+            "type": "color"
+          },
+          "600test": {
+            "value": "#2359c4",
+            "type": "color",
+            "description": "core.color.error.600test"
+          },
+          "700test": {
+            "value": "#237fc4",
+            "type": "color",
+            "description": "core.color.error.700"
+          }
         }
       }
     },
     "missioncard": {
       "value": {
-        "fill": "{core.color.palette.brandprim.900}",
+        "fill": "{core.color.brandspallette.brandprim.900}",
         "borderRadius": ""
       },
       "type": "composition",
@@ -1166,6 +1211,52 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "opacity": {
+      "100": {
+        "value": "0.04",
+        "type": "opacity"
+      },
+      "200": {
+        "value": "0.08",
+        "type": "opacity"
+      },
+      "300": {
+        "value": "0.12",
+        "type": "opacity"
+      },
+      "400": {
+        "value": "0.16",
+        "type": "opacity"
+      },
+      "500": {
+        "value": "0.24",
+        "type": "opacity"
+      },
+      "600": {
+        "value": "0.32",
+        "type": "opacity"
+      },
+      "700": {
+        "value": "0.40",
+        "type": "opacity"
+      },
+      "800": {
+        "value": "0.64",
+        "type": "opacity"
+      },
+      "900": {
+        "value": "0.80",
+        "type": "opacity"
+      },
+      "1000": {
+        "value": "1",
+        "type": "opacity"
+      },
+      "transparent": {
+        "value": "0",
+        "type": "opacity"
+      }
     }
   },
   "base": {

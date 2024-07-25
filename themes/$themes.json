@@ -5,7 +5,9 @@
     "group": "themes",
     "selectedTokenSets": {
       "shared/core": "source",
-      "themes/brand1/semantic_rework": "disabled"
+      "themes/brand1/semantic_rework_palette": "disabled",
+      "themes/brand1/semantic_rework_ui": "disabled",
+      "themes/brand1/semantic_rework_components": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,7 +17,9 @@
     "group": "themes",
     "selectedTokenSets": {
       "shared/core": "source",
-      "themes/brand1/semantic_rework": "disabled"
+      "themes/brand1/semantic_rework_palette": "disabled",
+      "themes/brand1/semantic_rework_ui": "disabled",
+      "themes/brand1/semantic_rework_components": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -28,7 +32,9 @@
       "shared/typography": "source",
       "shared/icons": "source",
       "themes/brand1/semantic": "source",
-      "themes/brand1/semantic_rework": "source"
+      "themes/brand1/semantic_rework_palette": "source",
+      "themes/brand1/semantic_rework_ui": "source",
+      "themes/brand1/semantic_rework_components": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -40,7 +46,9 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/brand1/semantic_rework": "disabled"
+      "themes/brand1/semantic_rework_palette": "disabled",
+      "themes/brand1/semantic_rework_ui": "disabled",
+      "themes/brand1/semantic_rework_components": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -52,7 +60,9 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/brand1/semantic_rework": "disabled"
+      "themes/brand1/semantic_rework_palette": "disabled",
+      "themes/brand1/semantic_rework_ui": "disabled",
+      "themes/brand1/semantic_rework_components": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -64,7 +74,9 @@
       "shared/semantic-colors": "source",
       "shared/typography": "source",
       "shared/icons": "source",
-      "themes/brand1/semantic_rework": "disabled"
+      "themes/brand1/semantic_rework_palette": "disabled",
+      "themes/brand1/semantic_rework_ui": "disabled",
+      "themes/brand1/semantic_rework_components": "disabled"
     },
     "$figmaStyleReferences": {}
   }
