@@ -1061,6 +1061,11 @@
       },
       "system": {
         "danger": {
+          "50": {
+            "value": "#dac6c6",
+            "type": "color",
+            "description": "pallete wrong, redo color ramp."
+          },
           "500": {
             "value": "#c72828",
             "type": "color"
@@ -1077,6 +1082,11 @@
           }
         },
         "success": {
+          "50": {
+            "value": "#c3d8c6",
+            "type": "color",
+            "description": "value not yet defined"
+          },
           "500": {
             "value": "#55c568",
             "type": "color",

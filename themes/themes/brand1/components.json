@@ -58,7 +58,8 @@
         },
         "hover": {
           "value": "{color.palette.primary.600}",
-          "type": "color"
+          "type": "color",
+          "description": "(i think this is misplaced... maybe delete)"
         }
       }
     },
@@ -121,6 +122,48 @@
         },
         "border": {
           "value": "{color.palette.neutral.300}",
+          "type": "color"
+        }
+      },
+      "selected": {
+        "background": {
+          "value": "{color.palette.accent.500}",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "{color.palette.accent.50}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{color.palette.accent.500}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "background": {
+          "value": "{core.color.system.danger.50}",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "{core.color.system.danger.500}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.color.system.danger.500}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "background": {
+          "value": "{core.color.system.success.50}",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "{core.color.system.success.500}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.color.system.success.500}",
           "type": "color"
         }
       }
