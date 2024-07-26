@@ -330,7 +330,7 @@
           "value": {
             "fontFamily": "{core.font-family.primary.body}",
             "fontWeight": "{base.font-weight.regular}",
-            "fontSize": "{core.font-size.ennumerated.5}"
+            "fontSize": "{core.font-size.ennumerated.3}"
           },
           "type": "typography",
           "description": "values to be defined"
@@ -339,7 +339,7 @@
           "value": {
             "fontFamily": "{core.font-family.primary.body}",
             "fontWeight": "{base.font-weight.medium}",
-            "fontSize": "{core.font-size.ennumerated.5}"
+            "fontSize": "{core.font-size.ennumerated.3}"
           },
           "type": "typography",
           "description": "values to be defined"
@@ -350,7 +350,7 @@
           "value": {
             "fontFamily": "{core.font-family.primary.body}",
             "fontWeight": "{base.font-weight.regular}",
-            "fontSize": "{core.font-size.ennumerated.4}"
+            "fontSize": "{core.font-size.ennumerated.2}"
           },
           "type": "typography",
           "description": "values to be defined"
@@ -359,7 +359,7 @@
           "value": {
             "fontFamily": "{core.font-family.primary.body}",
             "fontWeight": "{base.font-weight.medium}",
-            "fontSize": "{core.font-size.ennumerated.4}"
+            "fontSize": "{core.font-size.ennumerated.2}"
           },
           "type": "typography",
           "description": "values to be defined"
@@ -369,8 +369,8 @@
         "idle": {
           "value": {
             "fontFamily": "{core.font-family.primary.body}",
-            "fontWeight": "{base.font-weight.regular}",
-            "fontSize": "{core.font-size.ennumerated.6}"
+            "fontWeight": "{base.font-weight.bold}",
+            "fontSize": "{core.font-size.ennumerated.4}"
           },
           "type": "typography",
           "description": "values to be defined"
@@ -378,8 +378,28 @@
         "hover": {
           "value": {
             "fontFamily": "{core.font-family.primary.body}",
-            "fontWeight": "{base.font-weight.medium}",
-            "fontSize": "{core.font-size.ennumerated.6}"
+            "fontWeight": "{base.font-weight.extrabold}",
+            "fontSize": "{core.font-size.ennumerated.4}"
+          },
+          "type": "typography",
+          "description": "values to be defined"
+        }
+      },
+      "xlg": {
+        "idle": {
+          "value": {
+            "fontFamily": "{core.font-family.primary.body}",
+            "fontWeight": "{base.font-weight.bold}",
+            "fontSize": "{core.font-size.ennumerated.5}"
+          },
+          "type": "typography",
+          "description": "values to be defined"
+        },
+        "hover": {
+          "value": {
+            "fontFamily": "{core.font-family.primary.body}",
+            "fontWeight": "{base.font-weight.extrabold}",
+            "fontSize": "{core.font-size.ennumerated.5}"
           },
           "type": "typography",
           "description": "values to be defined"

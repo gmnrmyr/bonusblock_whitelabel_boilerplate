@@ -1183,8 +1183,18 @@
           "type": "borderRadius",
           "description": "value not yet defined"
         },
+        "xl": {
+          "value": "{core.border-radius.scale} * 12",
+          "type": "borderRadius",
+          "description": "value not yet defined"
+        },
+        "xxl": {
+          "value": "{core.border-radius.scale} * 16",
+          "type": "borderRadius",
+          "description": "value not yet defined"
+        },
         "pill": {
-          "value": "16",
+          "value": "999",
           "type": "borderRadius",
           "description": "value to be defined"
         }
@@ -1196,7 +1206,7 @@
           "description": "value not yet defined."
         },
         "pill": {
-          "value": "16",
+          "value": "999",
           "type": "borderRadius",
           "description": "value to be defined"
         }

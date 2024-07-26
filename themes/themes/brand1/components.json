@@ -246,8 +246,20 @@
         "value": "{color.palette.black}",
         "type": "color"
       },
+      "faded": {
+        "value": "{color.palette.neutral.300}",
+        "type": "color"
+      },
       "primarydark": {
         "value": "{color.palette.primary.800}",
+        "type": "color"
+      },
+      "primaryfaded": {
+        "value": "{color.palette.primary.300}",
+        "type": "color"
+      },
+      "primarylighter": {
+        "value": "{color.palette.primary.50}",
         "type": "color"
       }
     },
@@ -279,6 +291,10 @@
       "background": {
         "value": "{color.palette.white}",
         "type": "color"
+      },
+      "backgroundsoftprimary": {
+        "value": "{color.palette.primary.100}",
+        "type": "color"
       }
     },
     "icon": {
@@ -295,7 +311,33 @@
           "value": "{color.palette.neutral.600}",
           "type": "color"
         }
+      },
+      "disclaimer": {
+        "primaryfaded": {
+          "value": "{color.palette.primary.200}",
+          "type": "color"
+        }
       }
+    }
+  },
+  "header": {
+    "rounded": {
+      "value": "{core.border-radius.container.pill}",
+      "type": "borderRadius"
+    },
+    "edgy": {
+      "value": "{core.border-radius.container.none}",
+      "type": "borderRadius"
+    }
+  },
+  "buttons": {
+    "rounded_xl": {
+      "value": "{core.border-radius.container.xl}",
+      "type": "borderRadius"
+    },
+    "edgy": {
+      "value": "{core.border-radius.container.none}",
+      "type": "borderRadius"
     }
   }
 }
