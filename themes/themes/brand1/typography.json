@@ -1,0 +1,74 @@
+{
+  "text": {
+    "typeset": {
+      "fontFamily": {
+        "heading": {
+          "value": "{core.font-family.primary.titles}",
+          "type": "fontFamilies"
+        },
+        "body": {
+          "value": "{core.font-family.primary.body}",
+          "type": "fontFamilies"
+        },
+        "monotype": {
+          "value": "{core.font-family.primary.caption}",
+          "type": "fontFamilies",
+          "description": "currently unused"
+        },
+        "icons": {
+          "value": "{core.font-family.primary.icons}",
+          "type": "fontFamilies",
+          "description": "Need to understand how to use https://fontawesome.com/"
+        }
+      },
+      "fontWeight": {
+        "light": {
+          "value": "{base.font-weight.light}",
+          "type": "fontWeights"
+        }
+      }
+    },
+    "heading": {
+      "0": {
+        "value": {
+          "fontFamily": "{text.typeset.fontFamily.heading}",
+          "fontWeight": "{base.font-weight.bold}",
+          "fontSize": "{core.font-size.ennumerated.20}"
+        },
+        "type": "typography"
+      },
+      "1": {
+        "value": {
+          "fontFamily": "{text.typeset.fontFamily.heading}",
+          "fontWeight": "{base.font-weight.bold}",
+          "fontSize": "{core.font-size.ennumerated.21}"
+        },
+        "type": "typography"
+      },
+      "2": {
+        "value": {
+          "fontFamily": "{text.typeset.fontFamily.heading}",
+          "fontWeight": "{base.font-weight.bold}",
+          "fontSize": "{core.font-size.ennumerated.22}"
+        },
+        "type": "typography"
+      },
+      "3": {
+        "value": {
+          "fontFamily": "{text.typeset.fontFamily.heading}",
+          "fontWeight": "{base.font-weight.bold}",
+          "fontSize": "{core.font-size.ennumerated.23}"
+        },
+        "type": "typography"
+      },
+      "4": {
+        "value": {
+          "fontFamily": "{text.typeset.fontFamily.heading}",
+          "fontWeight": "{base.font-weight.bold}",
+          "fontSize": "{core.font-size.ennumerated.24}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}
