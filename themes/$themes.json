@@ -25,7 +25,6 @@
       "shared/icons": "source",
       "themes/brand1/palette": "source",
       "themes/brand1/components": "source",
-      "unusedatm/semantic(old)": "source",
       "themes/brand1/typography": "source"
     },
     "$figmaStyleReferences": {}
