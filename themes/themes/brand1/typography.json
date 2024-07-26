@@ -361,7 +361,7 @@
         "idle": {
           "value": {
             "fontFamily": "{core.font-family.primary.body}",
-            "fontWeight": "{base.font-weight.regular}",
+            "fontWeight": "{base.font-weight.bold}",
             "fontSize": "{core.font-size.ennumerated.3}"
           },
           "type": "typography",
@@ -370,7 +370,7 @@
         "hover": {
           "value": {
             "fontFamily": "{core.font-family.primary.body}",
-            "fontWeight": "{base.font-weight.medium}",
+            "fontWeight": "{base.font-weight.extrabold}",
             "fontSize": "{core.font-size.ennumerated.3}"
           },
           "type": "typography",
@@ -381,7 +381,7 @@
         "idle": {
           "value": {
             "fontFamily": "{core.font-family.primary.body}",
-            "fontWeight": "{base.font-weight.regular}",
+            "fontWeight": "{base.font-weight.bold}",
             "fontSize": "{core.font-size.ennumerated.2}"
           },
           "type": "typography",
