@@ -295,6 +295,10 @@
       "backgroundsoftprimary": {
         "value": "{color.palette.primary.100}",
         "type": "color"
+      },
+      "darker": {
+        "value": "{color.palette.primary.600}",
+        "type": "color"
       }
     },
     "icon": {
@@ -315,6 +319,12 @@
       "disclaimer": {
         "primaryfaded": {
           "value": "{color.palette.primary.200}",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "darkmode": {
+          "value": "{color.palette.white}",
           "type": "color"
         }
       }
@@ -338,6 +348,32 @@
     "edgy": {
       "value": "{core.border-radius.container.none}",
       "type": "borderRadius"
+    }
+  },
+  "boxshadow": {
+    "bbstyle": {
+      "primary": {
+        "lg": {
+          "value": {
+            "x": "3",
+            "y": "5",
+            "blur": "0",
+            "spread": "0",
+            "color": "{color.palette.primary.500}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
+    }
+  },
+  "card": {
+    "blur_and_shadow": {
+      "value": {
+        "backgroundBlur": "10",
+        "boxShadow": "{boxshadow.bbstyle.primary.lg}"
+      },
+      "type": "composition"
     }
   }
 }
