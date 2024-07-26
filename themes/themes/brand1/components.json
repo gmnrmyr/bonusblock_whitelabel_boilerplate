@@ -379,15 +379,15 @@
           }
         }
       }
-    }
-  },
-  "card": {
-    "blur_and_shadow": {
-      "value": {
-        "backgroundBlur": "10",
-        "boxShadow": "{base.boxShadow.bbstyle.primary.lg}"
-      },
-      "type": "composition"
+    },
+    "card": {
+      "blur_and_shadow": {
+        "value": {
+          "backgroundBlur": "10",
+          "boxShadow": "{base.boxShadow.bbstyle.primary.lg}"
+        },
+        "type": "composition"
+      }
     }
   }
 }
