@@ -168,6 +168,14 @@
           "value": "{core.color.brandspallette.neutral.950}",
           "type": "color"
         }
+      },
+      "white": {
+        "value": "{core.color.white}",
+        "type": "color"
+      },
+      "black": {
+        "value": "{core.color.black}",
+        "type": "color"
       }
     }
   }

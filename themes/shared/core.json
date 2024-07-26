@@ -1136,6 +1136,14 @@
             "description": "core.color.error.700"
           }
         }
+      },
+      "white": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000",
+        "type": "color"
       }
     },
     "missioncard": {
@@ -1319,6 +1327,10 @@
       },
       "semibold": {
         "value": "Semi Bold",
+        "type": "fontWeights"
+      },
+      "extrabold": {
+        "value": "Extra Bold",
         "type": "fontWeights"
       },
       "regular": {

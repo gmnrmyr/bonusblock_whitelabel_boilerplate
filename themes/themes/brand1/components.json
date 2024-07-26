@@ -56,6 +56,62 @@
             }
           }
         }
+      },
+      "secondary": {
+        "idle": {
+          "background": {
+            "value": "{color.palette.secondary.500}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{color.palette.secondary.50}",
+            "type": "color"
+          },
+          "border": {
+            "value": "rgba({color.palette.secondary.500}, {core.opacity.transparent})",
+            "type": "color"
+          }
+        },
+        "subtle": {
+          "idle": {
+            "background": {
+              "value": "rgba({color.palette.secondary.200}, {core.opacity.700})",
+              "type": "color"
+            },
+            "foreground": {
+              "value": "{color.palette.secondary.500}",
+              "type": "color"
+            },
+            "border": {
+              "value": "rgba({color.palette.secondary.200}, {core.opacity.transparent})",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "background": {
+              "value": "rgba({color.palette.secondary.200}, {core.opacity.900})",
+              "type": "color"
+            }
+          }
+        },
+        "solid": {
+          "hover": {
+            "background": {
+              "value": "rgba({color.palette.secondary.950}, {core.opacity.700})",
+              "type": "color"
+            }
+          },
+          "active": {
+            "foreground": {
+              "value": "{color.palette.secondary.50}",
+              "type": "color"
+            },
+            "border": {
+              "value": "rgba({color.palette.secondary.950}, {core.opacity.transparent})",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "input": {
@@ -170,6 +226,10 @@
       },
       "secondary": {
         "value": "{color.palette.secondary.500}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{color.palette.accent.500}",
         "type": "color"
       }
     }

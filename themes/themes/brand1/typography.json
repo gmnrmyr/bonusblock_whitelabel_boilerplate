@@ -29,45 +29,89 @@
       }
     },
     "heading": {
-      "0": {
-        "value": {
-          "fontFamily": "{text.typeset.fontFamily.heading}",
-          "fontWeight": "{base.font-weight.bold}",
-          "fontSize": "{core.font-size.ennumerated.20}"
+      "semibold": {
+        "0": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.semibold}",
+            "fontSize": "{core.font-size.ennumerated.20}"
+          },
+          "type": "typography"
         },
-        "type": "typography"
+        "1": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.semibold}",
+            "fontSize": "{core.font-size.ennumerated.21}"
+          },
+          "type": "typography"
+        },
+        "2": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.semibold}",
+            "fontSize": "{core.font-size.ennumerated.22}"
+          },
+          "type": "typography"
+        },
+        "3": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.semibold}",
+            "fontSize": "{core.font-size.ennumerated.23}"
+          },
+          "type": "typography"
+        },
+        "4": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.semibold}",
+            "fontSize": "{core.font-size.ennumerated.24}"
+          },
+          "type": "typography"
+        }
       },
-      "1": {
-        "value": {
-          "fontFamily": "{text.typeset.fontFamily.heading}",
-          "fontWeight": "{base.font-weight.bold}",
-          "fontSize": "{core.font-size.ennumerated.21}"
+      "extrabold": {
+        "0": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.bold}",
+            "fontSize": "{core.font-size.ennumerated.20}"
+          },
+          "type": "typography"
         },
-        "type": "typography"
-      },
-      "2": {
-        "value": {
-          "fontFamily": "{text.typeset.fontFamily.heading}",
-          "fontWeight": "{base.font-weight.bold}",
-          "fontSize": "{core.font-size.ennumerated.22}"
+        "1": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.bold}",
+            "fontSize": "{core.font-size.ennumerated.21}"
+          },
+          "type": "typography"
         },
-        "type": "typography"
-      },
-      "3": {
-        "value": {
-          "fontFamily": "{text.typeset.fontFamily.heading}",
-          "fontWeight": "{base.font-weight.semibold}",
-          "fontSize": "{core.font-size.ennumerated.23}"
+        "2": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.bold}",
+            "fontSize": "{core.font-size.ennumerated.22}"
+          },
+          "type": "typography"
         },
-        "type": "typography"
-      },
-      "4": {
-        "value": {
-          "fontFamily": "{text.typeset.fontFamily.heading}",
-          "fontWeight": "{base.font-weight.semibold}",
-          "fontSize": "{core.font-size.ennumerated.24}"
+        "3": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.semibold}",
+            "fontSize": "{core.font-size.ennumerated.23}"
+          },
+          "type": "typography"
         },
-        "type": "typography"
+        "4": {
+          "value": {
+            "fontFamily": "{text.typeset.fontFamily.heading}",
+            "fontWeight": "{base.font-weight.extrabold}",
+            "fontSize": "{core.font-size.ennumerated.24}"
+          },
+          "type": "typography"
+        }
       }
     },
     "body": {
@@ -405,13 +449,62 @@
       }
     },
     "subheading": {
-      "0": {
-        "value": {
-          "fontFamily": "{core.font-family.primary.body}",
-          "fontWeight": "{base.font-weight.medium}",
-          "fontSize": "{core.font-size.ennumerated.7}"
+      "medium": {
+        "l": {
+          "value": {
+            "fontFamily": "{core.font-family.primary.body}",
+            "fontWeight": "{base.font-weight.medium}",
+            "fontSize": "{core.font-size.ennumerated.7}"
+          },
+          "type": "typography"
         },
-        "type": "typography"
+        "m": {
+          "value": {
+            "fontFamily": "{core.font-family.primary.body}",
+            "fontWeight": "{base.font-weight.medium}",
+            "fontSize": "{core.font-size.ennumerated.5}"
+          },
+          "type": "typography"
+        }
+      },
+      "bold": {
+        "l": {
+          "value": {
+            "fontFamily": "{core.font-family.primary.body}",
+            "fontWeight": "{base.font-weight.bold}",
+            "fontSize": "{core.font-size.ennumerated.7}"
+          },
+          "type": "typography"
+        },
+        "m": {
+          "value": {
+            "fontFamily": "{core.font-family.primary.body}",
+            "fontWeight": "{base.font-weight.bold}",
+            "fontSize": "{core.font-size.ennumerated.5}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "navbar": {
+      "lg": {
+        "idle": {
+          "value": {
+            "fontFamily": "{core.font-family.primary.body}",
+            "fontWeight": "{base.font-weight.semibold}",
+            "fontSize": "{core.font-size.ennumerated.6}"
+          },
+          "type": "typography"
+        },
+        "hover": {
+          "value": {
+            "fontFamily": "{core.font-family.primary.body}",
+            "fontWeight": "{base.font-weight.bold}",
+            "fontSize": "{core.font-size.ennumerated.6}",
+            "textDecoration": "underline"
+          },
+          "type": "typography"
+        }
       }
     }
   }
