@@ -232,6 +232,24 @@
         "value": "{color.palette.accent.500}",
         "type": "color"
       }
+    },
+    "text": {
+      "white": {
+        "value": "{core.color.white}",
+        "type": "color"
+      }
+    },
+    "card": {
+      "indexcard": {
+        "idle": {
+          "value": "rgba( {color.palette.white}, {core.opacity.600})",
+          "type": "color"
+        },
+        "hover": {
+          "value": "rgba( {color.palette.white}, {core.opacity.400})",
+          "type": "color"
+        }
+      }
     }
   }
 }
