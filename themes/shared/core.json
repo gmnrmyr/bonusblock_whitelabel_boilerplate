@@ -1267,6 +1267,31 @@
         "value": "0",
         "type": "opacity"
       }
+    },
+    "line-height": {
+      "ennumerated": {
+        "18": {
+          "value": "18",
+          "type": "lineHeights",
+          "description": "avoid using, not currently using."
+        }
+      },
+      "xs": {
+        "value": "100%",
+        "type": "lineHeights"
+      },
+      "s": {
+        "value": "110%",
+        "type": "lineHeights"
+      },
+      "m": {
+        "value": "130%",
+        "type": "lineHeights"
+      },
+      "l": {
+        "value": "150%",
+        "type": "lineHeights"
+      }
     }
   },
   "base": {
@@ -1285,15 +1310,23 @@
     },
     "font-weight": {
       "bold": {
-        "value": "bold",
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "semibold": {
+        "value": "Semi Bold",
         "type": "fontWeights"
       },
       "regular": {
-        "value": "regular",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "light": {
-        "value": "regular",
+        "value": "Light",
         "type": "fontWeights"
       }
     }

@@ -55,11 +55,6 @@
               "type": "color"
             }
           }
-        },
-        "hover": {
-          "value": "{color.palette.primary.600}",
-          "type": "color",
-          "description": "(i think this is misplaced... maybe delete)"
         }
       }
     },
@@ -166,6 +161,16 @@
           "value": "{core.color.system.success.500}",
           "type": "color"
         }
+      }
+    },
+    "heading": {
+      "primary": {
+        "value": "{color.palette.primary.500}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{color.palette.secondary.500}",
+        "type": "color"
       }
     }
   }
