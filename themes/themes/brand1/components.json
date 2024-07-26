@@ -296,24 +296,36 @@
         "value": "{color.palette.primary.100}",
         "type": "color"
       },
-      "darker": {
+      "backgrounddarkerprimary": {
         "value": "{color.palette.primary.600}",
         "type": "color"
       }
     },
     "icon": {
       "coin": {
-        "fill": {
-          "value": "{color.palette.primary.500}",
-          "type": "color"
+        "primary": {
+          "fill": {
+            "value": "{color.palette.primary.500}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{color.palette.primary.500}",
+            "type": "color"
+          },
+          "greyfill": {
+            "value": "{color.palette.neutral.600}",
+            "type": "color"
+          }
         },
-        "border": {
-          "value": "{color.palette.primary.500}",
-          "type": "color"
-        },
-        "greyfill": {
-          "value": "{color.palette.neutral.600}",
-          "type": "color"
+        "secondary": {
+          "fill": {
+            "value": "{color.palette.secondary.500}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{color.palette.secondary.500}",
+            "type": "color"
+          }
         }
       },
       "disclaimer": {
@@ -325,6 +337,10 @@
       "brand": {
         "darkmode": {
           "value": "{color.palette.white}",
+          "type": "color"
+        },
+        "lightmode": {
+          "value": "{color.palette.primary.950}",
           "type": "color"
         }
       }
