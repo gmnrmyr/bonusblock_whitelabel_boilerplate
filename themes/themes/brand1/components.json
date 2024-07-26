@@ -231,22 +231,68 @@
       "accent": {
         "value": "{color.palette.accent.500}",
         "type": "color"
+      },
+      "black": {
+        "value": "{color.palette.black}",
+        "type": "color"
       }
     },
     "text": {
       "white": {
         "value": "{core.color.white}",
         "type": "color"
+      },
+      "black": {
+        "value": "{color.palette.black}",
+        "type": "color"
+      },
+      "primarydark": {
+        "value": "{color.palette.primary.800}",
+        "type": "color"
       }
     },
     "card": {
       "indexcard": {
-        "idle": {
-          "value": "rgba( {color.palette.white}, {core.opacity.600})",
+        "background": {
+          "idle": {
+            "value": "rgba( {color.palette.white}, {core.opacity.600})",
+            "type": "color"
+          },
+          "hover": {
+            "value": "rgba( {color.palette.white}, {core.opacity.400})",
+            "type": "color"
+          }
+        },
+        "foreground": {
+          "idle": {
+            "value": "{color.palette.primary.800}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.palette.primary.700}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "surface": {
+      "background": {
+        "value": "{color.palette.white}",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "coin": {
+        "fill": {
+          "value": "{color.palette.primary.500}",
           "type": "color"
         },
-        "hover": {
-          "value": "rgba( {color.palette.white}, {core.opacity.400})",
+        "border": {
+          "value": "{color.palette.primary.500}",
+          "type": "color"
+        },
+        "greyfill": {
+          "value": "{color.palette.neutral.600}",
           "type": "color"
         }
       }
