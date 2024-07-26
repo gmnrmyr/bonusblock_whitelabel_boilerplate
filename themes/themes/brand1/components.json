@@ -65,6 +65,28 @@
     "input": {
       "field": {
         "label": {
+          "value": "{color.palette.neutral.600}",
+          "type": "color"
+        },
+        "description": {
+          "value": "{core.color.brandspallette.neutral.600}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{core.color.system.danger.500}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{core.color.system.success.500}",
+          "type": "color"
+        }
+      },
+      "idle": {
+        "background": {
+          "value": "{core.color.brandpalette.accent.50}",
+          "type": "color"
+        },
+        "foreground": {
           "value": "{core.color.brandspallette.neutral.600}",
           "type": "color"
         }

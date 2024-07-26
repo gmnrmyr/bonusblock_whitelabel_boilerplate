@@ -1,17 +1,13 @@
 {
   "tokenSetOrder": [
     "shared/core",
-    "shared/semantic-colors",
-    "shared/typography",
     "shared/icons",
     "shared/round_stylebrand",
     "shared/edgy_stylebrand",
-    "themes/brand1/semantic",
     "themes/brand1/palette",
-    "themes/brand1/semantic_rework_ui",
-    "themes/brand1/semantic_rework_components",
+    "themes/brand1/components",
+    "unusedatm/semantic(old)",
     "unusedatm/larger",
-    "unusedatm/dark",
-    "unusedatm/global"
+    "unusedatm/dark"
   ]
 }

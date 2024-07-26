@@ -20,11 +20,11 @@
             "type": "color"
           },
           "error": {
-            "value": "{core.color.system.reds4error.500}",
+            "value": "{core.color.system.danger.500}",
             "type": "color"
           },
           "success": {
-            "value": "{core.color.system.green4success.500}",
+            "value": "{core.color.system.success.500}",
             "type": "color"
           },
           "information": {
@@ -32,7 +32,7 @@
             "type": "color"
           },
           "warning": {
-            "value": "{core.color.system.reds4error.500}",
+            "value": "{core.color.system.danger.500}",
             "type": "color"
           },
           "neutral": {

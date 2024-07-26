@@ -4,7 +4,9 @@
     "name": "web-light",
     "group": "themes",
     "selectedTokenSets": {
-      "shared/core": "source"
+      "shared/core": "source",
+      "themes/brand1/components": "disabled",
+      "unusedatm/semantic(old)": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -13,7 +15,9 @@
     "name": "brand-light",
     "group": "themes",
     "selectedTokenSets": {
-      "shared/core": "source"
+      "shared/core": "source",
+      "themes/brand1/components": "disabled",
+      "unusedatm/semantic(old)": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -22,13 +26,10 @@
     "name": "brand-1",
     "selectedTokenSets": {
       "shared/core": "source",
-      "shared/semantic-colors": "source",
-      "shared/typography": "source",
       "shared/icons": "source",
-      "themes/brand1/semantic": "source",
-      "themes/brand1/semantic_rework_ui": "source",
-      "themes/brand1/semantic_rework_components": "source",
-      "themes/brand1/palette": "source"
+      "themes/brand1/palette": "source",
+      "themes/brand1/components": "source",
+      "unusedatm/semantic(old)": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,9 +38,9 @@
     "name": "brand-2",
     "selectedTokenSets": {
       "shared/core": "source",
-      "shared/semantic-colors": "source",
-      "shared/typography": "source",
-      "shared/icons": "source"
+      "shared/icons": "source",
+      "themes/brand1/components": "disabled",
+      "unusedatm/semantic(old)": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -48,9 +49,9 @@
     "name": "grovve",
     "selectedTokenSets": {
       "shared/core": "source",
-      "shared/semantic-colors": "source",
-      "shared/typography": "source",
-      "shared/icons": "source"
+      "shared/icons": "source",
+      "themes/brand1/components": "disabled",
+      "unusedatm/semantic(old)": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,9 +60,9 @@
     "name": "brand3",
     "selectedTokenSets": {
       "shared/core": "source",
-      "shared/semantic-colors": "source",
-      "shared/typography": "source",
-      "shared/icons": "source"
+      "shared/icons": "source",
+      "themes/brand1/components": "disabled",
+      "unusedatm/semantic(old)": "disabled"
     },
     "$figmaStyleReferences": {}
   }

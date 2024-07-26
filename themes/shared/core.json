@@ -1060,7 +1060,7 @@
         }
       },
       "system": {
-        "reds4error": {
+        "danger": {
           "500": {
             "value": "#c72828",
             "type": "color"
@@ -1076,7 +1076,7 @@
             "description": "core.color.error.700"
           }
         },
-        "green4success": {
+        "success": {
           "500": {
             "value": "#55c568",
             "type": "color",
@@ -1110,7 +1110,7 @@
             "description": "core.color.geens4success.700\n(placeholder)"
           }
         },
-        "blue4info": {
+        "info": {
           "500": {
             "value": "#2b28c7",
             "type": "color"
