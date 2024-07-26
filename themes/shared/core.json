@@ -1154,9 +1154,9 @@
       "type": "composition",
       "description": "yet to be implemented, not properly working yet. (mostly component placeholder)"
     },
-    "border-radius": {
+    "borderRadius": {
       "1": {
-        "value": "{core.border-radius.scale} * 1",
+        "value": "{core.borderRadius.scale} * 1",
         "type": "borderRadius"
       },
       "scale": {
@@ -1169,27 +1169,27 @@
           "type": "borderRadius"
         },
         "s": {
-          "value": "{core.border-radius.scale} * 4",
+          "value": "{core.borderRadius.scale} * 4",
           "type": "borderRadius",
           "description": "value yet to be defined"
         },
         "m": {
-          "value": "{core.border-radius.scale} * 6",
+          "value": "{core.borderRadius.scale} * 6",
           "type": "borderRadius",
           "description": "value not yet defined."
         },
         "l": {
-          "value": "{core.border-radius.scale} * 8",
+          "value": "{core.borderRadius.scale} * 8",
           "type": "borderRadius",
           "description": "value not yet defined"
         },
         "xl": {
-          "value": "{core.border-radius.scale} * 12",
+          "value": "{core.borderRadius.scale} * 12",
           "type": "borderRadius",
           "description": "value not yet defined"
         },
         "xxl": {
-          "value": "{core.border-radius.scale} * 16",
+          "value": "{core.borderRadius.scale} * 16",
           "type": "borderRadius",
           "description": "value not yet defined"
         },
@@ -1201,7 +1201,7 @@
       },
       "selectable": {
         "m": {
-          "value": "{core.border-radius.scale} * 6",
+          "value": "{core.borderRadius.scale} * 6",
           "type": "borderRadius",
           "description": "value not yet defined."
         },
