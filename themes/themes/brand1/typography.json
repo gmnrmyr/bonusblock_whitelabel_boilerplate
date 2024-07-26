@@ -447,7 +447,7 @@
             "value": {
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.regular}",
-              "fontSize": "{core.font-size.ennumerated.4}"
+              "fontSize": "{core.font-size.ennumerated.2}"
             },
             "type": "typography",
             "description": "values to be defined"
@@ -456,7 +456,7 @@
             "value": {
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.medium}",
-              "fontSize": "{core.font-size.ennumerated.4}"
+              "fontSize": "{core.font-size.ennumerated.2}"
             },
             "type": "typography",
             "description": "values to be defined"
@@ -467,7 +467,7 @@
             "value": {
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.regular}",
-              "fontSize": "{core.font-size.ennumerated.2}"
+              "fontSize": "{core.font-size.ennumerated.1}"
             },
             "type": "typography",
             "description": "values to be defined"
@@ -476,7 +476,7 @@
             "value": {
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.medium}",
-              "fontSize": "{core.font-size.ennumerated.2}"
+              "fontSize": "{core.font-size.ennumerated.1}"
             },
             "type": "typography",
             "description": "values to be defined"
@@ -487,7 +487,7 @@
             "value": {
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.regular}",
-              "fontSize": "{core.font-size.ennumerated.4}"
+              "fontSize": "{core.font-size.ennumerated.3}"
             },
             "type": "typography",
             "description": "values to be defined"
@@ -496,7 +496,7 @@
             "value": {
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.medium}",
-              "fontSize": "{core.font-size.ennumerated.4}"
+              "fontSize": "{core.font-size.ennumerated.3}"
             },
             "type": "typography",
             "description": "values to be defined"
@@ -552,7 +552,7 @@
           "l": {
             "value": {
               "fontFamily": "{core.font-family.primary.body}",
-              "fontWeight": "{base.font-weight.bold}",
+              "fontWeight": "{base.font-weight.semibold}",
               "fontSize": "{core.font-size.ennumerated.7}"
             },
             "type": "typography"
@@ -560,7 +560,7 @@
           "m": {
             "value": {
               "fontFamily": "{core.font-family.primary.body}",
-              "fontWeight": "{base.font-weight.bold}",
+              "fontWeight": "{base.font-weight.semibold}",
               "fontSize": "{core.font-size.ennumerated.5}"
             },
             "type": "typography"
