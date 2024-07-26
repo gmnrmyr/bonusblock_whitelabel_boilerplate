@@ -4,9 +4,7 @@
     "name": "web-light",
     "group": "themes",
     "selectedTokenSets": {
-      "shared/core": "source",
-      "themes/brand1/components": "disabled",
-      "unusedatm/semantic(old)": "disabled"
+      "shared/core": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,9 +13,7 @@
     "name": "brand-light",
     "group": "themes",
     "selectedTokenSets": {
-      "shared/core": "source",
-      "themes/brand1/components": "disabled",
-      "unusedatm/semantic(old)": "disabled"
+      "shared/core": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -38,9 +34,7 @@
     "name": "brand-2",
     "selectedTokenSets": {
       "shared/core": "source",
-      "shared/icons": "source",
-      "themes/brand1/components": "disabled",
-      "unusedatm/semantic(old)": "disabled"
+      "shared/icons": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -49,9 +43,7 @@
     "name": "grovve",
     "selectedTokenSets": {
       "shared/core": "source",
-      "shared/icons": "source",
-      "themes/brand1/components": "disabled",
-      "unusedatm/semantic(old)": "disabled"
+      "shared/icons": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -60,9 +52,7 @@
     "name": "brand3",
     "selectedTokenSets": {
       "shared/core": "source",
-      "shared/icons": "source",
-      "themes/brand1/components": "disabled",
-      "unusedatm/semantic(old)": "disabled"
+      "shared/icons": "source"
     },
     "$figmaStyleReferences": {}
   }
