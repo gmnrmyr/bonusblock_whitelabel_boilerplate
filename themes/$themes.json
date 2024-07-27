@@ -50,23 +50,23 @@
   {
     "id": "71feb77083a726c94a8ef14cba2ad71ffc2f615a",
     "name": "1c2t-brand-2-light-round",
-    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "shared/core": "source",
       "themes/brand2/typography_dual": "source",
       "themes/brand2/palette_single": "source",
       "themes/brand2/components_single": "source"
-    }
+    },
+    "$figmaStyleReferences": {}
   },
   {
     "id": "9b935acc64fe5d620f534b8f6b4edcf1f10ac11d",
     "name": "1c2t-brand-2-dark-round",
-    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "shared/core": "source",
       "themes/brand2/palette_single": "source",
       "themes/brand2/typography_dual": "source",
       "themes/brand2/components_dark_single": "source"
-    }
+    },
+    "$figmaStyleReferences": {}
   }
 ]
