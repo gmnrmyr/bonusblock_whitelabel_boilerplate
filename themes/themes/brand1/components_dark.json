@@ -413,6 +413,20 @@
           "boxShadow": "{base.boxShadow.bbstyle.primary.lg}"
         },
         "type": "composition"
+      },
+      "bgblur": {
+        "1": {
+          "value": {
+            "backgroundBlur": "10"
+          },
+          "type": "composition"
+        },
+        "2": {
+          "value": {
+            "backgroundBlur": "20"
+          },
+          "type": "composition"
+        }
       }
     }
   }
