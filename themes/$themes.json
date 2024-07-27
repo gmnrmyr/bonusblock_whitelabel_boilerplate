@@ -14,7 +14,6 @@
   {
     "id": "180efdbab28b57a7d122fb167805a66d52649b6e",
     "name": "brand-1-light-edgy",
-    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "shared/icons": "source",
       "shared/edgy_stylebrand": "source",
@@ -22,29 +21,30 @@
       "themes/brand1/components": "source",
       "themes/brand1/typography": "source",
       "shared/core_edgy": "source"
-    }
+    },
+    "$figmaStyleReferences": {}
   },
   {
     "id": "13d28702aff7e2256877ac47c94782bc448df86b",
     "name": "brand-1-dark-round",
-    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "shared/core": "source",
       "shared/icons": "source",
       "themes/brand1/palette": "source",
       "themes/brand1/typography": "source",
       "themes/brand1/components_dark": "source"
-    }
+    },
+    "$figmaStyleReferences": {}
   },
   {
     "id": "c4f8e259f40a7ad81ffa5e2df0127af97e9bc623",
     "name": "brand-1-dark-edgy",
-    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "shared/core_edgy": "source",
       "themes/brand1/palette": "source",
       "themes/brand1/components_dark": "source",
       "themes/brand1/typography": "source"
-    }
+    },
+    "$figmaStyleReferences": {}
   }
 ]
