@@ -1,11 +1,13 @@
 {
   "tokenSetOrder": [
     "shared/core",
+    "shared/core_edgy",
     "shared/icons",
     "shared/round_stylebrand",
     "shared/edgy_stylebrand",
     "themes/brand1/palette",
     "themes/brand1/components",
+    "themes/brand1/components_dark",
     "themes/brand1/typography",
     "unusedatm/larger",
     "unusedatm/dark"

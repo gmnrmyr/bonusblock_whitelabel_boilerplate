@@ -55,5 +55,30 @@
       "shared/icons": "source"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "180efdbab28b57a7d122fb167805a66d52649b6e",
+    "name": "edgy",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/icons": "source",
+      "shared/edgy_stylebrand": "source",
+      "themes/brand1/palette": "source",
+      "themes/brand1/components": "source",
+      "themes/brand1/typography": "source",
+      "shared/core_edgy": "source"
+    }
+  },
+  {
+    "id": "13d28702aff7e2256877ac47c94782bc448df86b",
+    "name": "brand1dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source",
+      "shared/icons": "source",
+      "themes/brand1/palette": "source",
+      "themes/brand1/components": "source",
+      "themes/brand1/typography": "source"
+    }
   }
 ]

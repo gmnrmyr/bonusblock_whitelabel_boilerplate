@@ -1,1 +1,10 @@
-{}
+{
+  "core": {
+    "borderRadius": {
+      "edgy": {
+        "value": "0",
+        "type": "borderRadius"
+      }
+    }
+  }
+}
