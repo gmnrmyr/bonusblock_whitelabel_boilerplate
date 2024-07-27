@@ -2,15 +2,18 @@
   "icon": {
     "ui": {
       "add": {
-        "value": "fs-solid fs-plus fs-circle",
+        "value": "fa-solid fa-magnifying-glass",
         "type": "other",
         "description": "plus-circle"
-      },
-      "bell": {
-        "value": "fs-solid fs-plus fs-bell",
-        "type": "other",
-        "description": "bell-filled"
       }
     }
+  },
+  "icon-home": {
+    "value": "fa-angle-up",
+    "type": "text"
+  },
+  "icon-home-copy": {
+    "value": "\\f015",
+    "type": "text"
   }
 }
