@@ -1,25 +1,7 @@
 [
   {
-    "id": "a23f65a5f164734b477f780b9bb4ea57bc67d848",
-    "name": "web-light",
-    "group": "themes",
-    "selectedTokenSets": {
-      "shared/core": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "9071278f5f6d07362e5601f375da1832a5a32676",
-    "name": "brand-light",
-    "group": "themes",
-    "selectedTokenSets": {
-      "shared/core": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "868ef2089c615e972b894942c697bc762617acb9",
-    "name": "brand-1",
+    "name": "brand-1-light-round",
     "selectedTokenSets": {
       "shared/core": "source",
       "shared/icons": "source",
@@ -30,35 +12,8 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "23c0750cce37f81cab4d3c056a9bc4ad2712807b",
-    "name": "brand-2",
-    "selectedTokenSets": {
-      "shared/core": "source",
-      "shared/icons": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "d0b741860a1482f479e565215f5edbd6280e72e1",
-    "name": "grovve",
-    "selectedTokenSets": {
-      "shared/core": "source",
-      "shared/icons": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "8624720c864a64ddef1d32a0fba3ace803d9e2ba",
-    "name": "brand3",
-    "selectedTokenSets": {
-      "shared/core": "source",
-      "shared/icons": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "180efdbab28b57a7d122fb167805a66d52649b6e",
-    "name": "edgy",
+    "name": "brand-1-light-edgy",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "shared/icons": "source",
@@ -71,13 +26,24 @@
   },
   {
     "id": "13d28702aff7e2256877ac47c94782bc448df86b",
-    "name": "brand1dark",
+    "name": "brand-1-dark-round",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "shared/core": "source",
       "shared/icons": "source",
       "themes/brand1/palette": "source",
-      "themes/brand1/components": "source",
+      "themes/brand1/typography": "source",
+      "themes/brand1/components_dark": "source"
+    }
+  },
+  {
+    "id": "c4f8e259f40a7ad81ffa5e2df0127af97e9bc623",
+    "name": "brand-1-dark-edgy",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core_edgy": "source",
+      "themes/brand1/palette": "source",
+      "themes/brand1/components_dark": "source",
       "themes/brand1/typography": "source"
     }
   }
