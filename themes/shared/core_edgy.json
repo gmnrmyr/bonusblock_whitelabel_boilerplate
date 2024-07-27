@@ -351,6 +351,11 @@
           "value": "Inter",
           "type": "fontFamilies",
           "description": "core.font-family.primary.caption"
+        },
+        "symbols": {
+          "value": "Font Awesome 5 Free",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.symbols"
         }
       },
       "secondary": {
