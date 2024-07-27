@@ -76,7 +76,7 @@
           "subtle": {
             "idle": {
               "background": {
-                "value": "rgba({color.palette.secondary.200}, {core.opacity.700})",
+                "value": "rgba({color.palette.primary.200}, {core.opacity.700})",
                 "type": "color"
               },
               "foreground": {
