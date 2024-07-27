@@ -8,9 +8,7 @@
       "themes/brand1/palette": "source",
       "themes/brand1/components": "source",
       "themes/brand1/typography": "source",
-      "themes/brand2/typography_dual": "disabled",
-      "themes/brand2/palette_single": "disabled",
-      "themes/brand2/components_single": "disabled"
+      "themes/brand2/components_dark_single": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -24,9 +22,7 @@
       "themes/brand1/components": "source",
       "themes/brand1/typography": "source",
       "shared/core_edgy": "source",
-      "themes/brand2/typography_dual": "disabled",
-      "themes/brand2/palette_single": "disabled",
-      "themes/brand2/components_single": "disabled"
+      "themes/brand2/components_dark_single": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -39,9 +35,7 @@
       "themes/brand1/palette": "source",
       "themes/brand1/typography": "source",
       "themes/brand1/components_dark": "source",
-      "themes/brand2/typography_dual": "disabled",
-      "themes/brand2/palette_single": "disabled",
-      "themes/brand2/components_single": "disabled"
+      "themes/brand2/components_dark_single": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -53,21 +47,31 @@
       "themes/brand1/palette": "source",
       "themes/brand1/components_dark": "source",
       "themes/brand1/typography": "source",
-      "themes/brand2/typography_dual": "disabled",
-      "themes/brand2/palette_single": "disabled",
-      "themes/brand2/components_single": "disabled"
+      "themes/brand2/components_dark_single": "disabled"
     },
     "$figmaStyleReferences": {}
   },
   {
     "id": "71feb77083a726c94a8ef14cba2ad71ffc2f615a",
-    "name": "brand2",
+    "name": "brand-2-light-round",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "shared/core": "source",
       "themes/brand2/typography_dual": "source",
       "themes/brand2/palette_single": "source",
-      "themes/brand2/components_single": "source"
+      "themes/brand2/components_single": "source",
+      "themes/brand2/components_dark_single": "disabled"
+    }
+  },
+  {
+    "id": "9b935acc64fe5d620f534b8f6b4edcf1f10ac11d",
+    "name": "brand-2-dark-round",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source",
+      "themes/brand2/palette_single": "source",
+      "themes/brand2/typography_dual": "source",
+      "themes/brand2/components_dark_single": "source"
     }
   }
 ]
