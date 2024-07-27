@@ -352,6 +352,23 @@
           "type": "fontFamilies",
           "description": "core.font-family.primary.caption"
         }
+      },
+      "secondary": {
+        "titles": {
+          "value": "Inter",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.main"
+        },
+        "body": {
+          "value": "Inter",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.body"
+        },
+        "caption": {
+          "value": "Inter",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.caption"
+        }
       }
     },
     "dimension": {
@@ -1322,8 +1339,8 @@
         "m": {
           "value": {
             "fontFamily": "{core.font-family.primary.titles}",
-            "fontSize": "{core.font-size.typescale.xxs}",
-            "fontWeight": "{base.font-weight.400}"
+            "fontSize": "{core.font-size.ennumerated.24}",
+            "fontWeight": "{base.font-weight.bold}"
           },
           "type": "typography",
           "description": "base.typography.title.m\n(test, placeholder)"

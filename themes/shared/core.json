@@ -352,6 +352,23 @@
           "type": "fontFamilies",
           "description": "core.font-family.primary.caption"
         }
+      },
+      "secondary": {
+        "titles": {
+          "value": "Inter",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.main"
+        },
+        "body": {
+          "value": "Inter",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.body"
+        },
+        "caption": {
+          "value": "Inter",
+          "type": "fontFamilies",
+          "description": "core.font-family.primary.caption"
+        }
       }
     },
     "dimension": {

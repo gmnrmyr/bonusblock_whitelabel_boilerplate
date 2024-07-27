@@ -7,7 +7,10 @@
       "shared/icons": "source",
       "themes/brand1/palette": "source",
       "themes/brand1/components": "source",
-      "themes/brand1/typography": "source"
+      "themes/brand1/typography": "source",
+      "themes/brand2/typography_dual": "disabled",
+      "themes/brand2/palette_single": "disabled",
+      "themes/brand2/components_single": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -20,7 +23,10 @@
       "themes/brand1/palette": "source",
       "themes/brand1/components": "source",
       "themes/brand1/typography": "source",
-      "shared/core_edgy": "source"
+      "shared/core_edgy": "source",
+      "themes/brand2/typography_dual": "disabled",
+      "themes/brand2/palette_single": "disabled",
+      "themes/brand2/components_single": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -32,7 +38,10 @@
       "shared/icons": "source",
       "themes/brand1/palette": "source",
       "themes/brand1/typography": "source",
-      "themes/brand1/components_dark": "source"
+      "themes/brand1/components_dark": "source",
+      "themes/brand2/typography_dual": "disabled",
+      "themes/brand2/palette_single": "disabled",
+      "themes/brand2/components_single": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -43,8 +52,22 @@
       "shared/core_edgy": "source",
       "themes/brand1/palette": "source",
       "themes/brand1/components_dark": "source",
-      "themes/brand1/typography": "source"
+      "themes/brand1/typography": "source",
+      "themes/brand2/typography_dual": "disabled",
+      "themes/brand2/palette_single": "disabled",
+      "themes/brand2/components_single": "disabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "71feb77083a726c94a8ef14cba2ad71ffc2f615a",
+    "name": "brand2",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "shared/core": "source",
+      "themes/brand2/typography_dual": "source",
+      "themes/brand2/palette_single": "source",
+      "themes/brand2/components_single": "source"
+    }
   }
 ]
