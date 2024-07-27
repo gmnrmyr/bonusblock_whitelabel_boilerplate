@@ -515,6 +515,10 @@
       },
       "web": {
         "breakpoints": {
+          "xs": {
+            "value": "320",
+            "type": "sizing"
+          },
           "s": {
             "value": "576",
             "type": "sizing",
@@ -531,7 +535,7 @@
             "description": "core.size.web.breakpoints.xl"
           },
           "xxl": {
-            "value": "1400+",
+            "value": "1563",
             "type": "sizing",
             "description": "core.size.web.breakpoints.xxl"
           }

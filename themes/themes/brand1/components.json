@@ -365,6 +365,20 @@
           "value": "{core.borderRadius.container.xl}",
           "type": "borderRadius"
         }
+      },
+      "button": {
+        "pill": {
+          "value": "{core.borderRadius.container.pill}",
+          "type": "borderRadius"
+        },
+        "edgy": {
+          "value": "{core.borderRadius.container.none}",
+          "type": "borderRadius"
+        },
+        "rounded_xl": {
+          "value": "{core.borderRadius.container.xl}",
+          "type": "borderRadius"
+        }
       }
     },
     "boxShadow": {
