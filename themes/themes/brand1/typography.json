@@ -16,7 +16,7 @@
           "description": "currently unused"
         },
         "icons": {
-          "value": "{core.font-family.primary.icons}",
+          "value": "{core.font-family.primary.symbols}",
           "type": "fontFamilies",
           "description": "Need to understand how to use https://fontawesome.com/"
         }
