@@ -278,7 +278,7 @@
           },
           "foreground": {
             "idle": {
-              "value": "{color.palette.primary.800}",
+              "value": "{color.palette.primary.50}",
               "type": "color"
             },
             "hover": {
