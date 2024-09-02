@@ -797,177 +797,464 @@
           "950": {
             "value": "#000",
             "type": "color"
+          },
+          "base": {
+            "value": "#6B7280",
+            "type": "color"
           }
         },
         "brandprim": {
           "50": {
-            "value": "#EBF2FE",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
-            "description": "Color.palette.brandprim.50"
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.50}",
+                  "space": "lch"
+                }
+              }
+            },
+            "description": "Color.palette.brandprim.50\nin test phase"
           },
           "100": {
-            "value": "#D8E6FE",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.100}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandprim.100"
           },
           "200": {
-            "value": "#B0CCFC",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
-            "description": "Color.palette.brandprim.200"
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.200}",
+                  "space": "lch"
+                }
+              }
+            },
+            "description": "Color.palette.brandprim.200\nold #B0CCFC"
           },
           "300": {
-            "value": "#8EB6FB",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.300}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandprim.300"
           },
           "400": {
-            "value": "#669CF9",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
-            "description": "Color.palette.brandprim.400"
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.400}",
+                  "space": "lch"
+                }
+              }
+            },
+            "description": "Color.palette.brandprim.400\nold #669CF9"
           },
           "500": {
-            "value": "#3F83F8",
+            "value": "{core.color.brandspallette.brandprim.base}",
             "type": "color",
-            "description": "Color.palette.brandprim.500\n(base for brandprim)"
+            "description": "Color.palette.brandprim.500\n(base for brandprim)\n\n(!!) \"Automatic Feed Modifier\" in action for this color."
           },
           "600": {
-            "value": "#095EF1",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
-            "description": "Color.palette.brandprim.600"
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.600}",
+                  "space": "lch"
+                }
+              }
+            },
+            "description": "Color.palette.brandprim.600\nold #095EF1"
           },
           "700": {
-            "value": "#0747B6",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.700}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandprim.700"
           },
           "800": {
-            "value": "#042E76",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.800}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "color.pallete.brandprim.800"
           },
           "900": {
-            "value": "#02173B",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.900}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandprim.900"
           },
           "950": {
-            "value": "#010C1E",
+            "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.950}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandprim.950"
+          },
+          "base": {
+            "value": "#3F83F8",
+            "type": "color",
+            "description": "change base prim here.\nold #3F83F8"
           }
         },
         "brandsecond": {
           "50": {
-            "value": "#F5F9F0",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.50}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.50"
           },
           "100": {
-            "value": "#EBF4E1",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.100}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.100"
           },
           "200": {
-            "value": "#D5E7C0",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.200}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.200"
           },
           "300": {
-            "value": "#C1DCA2",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.300}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.300"
           },
           "400": {
-            "value": "#ABCF81",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.400}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.400"
           },
           "500": {
-            "value": "#96C463",
+            "value": "{core.color.brandspallette.brandsecond.base}",
             "type": "color",
-            "description": "Color.palette.brandsecond.500\n(base for brandsecond)"
+            "description": "Color.palette.brandsecond.500\n(base for brandsecond)\n(!!) \"Automatic Feed Modifier\" in action for this color."
           },
           "600": {
-            "value": "#79AA40",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.600}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.600"
           },
           "700": {
-            "value": "#5C8231",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.700}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.700"
           },
           "800": {
-            "value": "#3C5520",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.800}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.800"
           },
           "900": {
-            "value": "#202C11",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.900}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.900"
           },
           "950": {
-            "value": "#101608",
+            "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.950}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandsecond.950"
+          },
+          "base": {
+            "value": "#96C463",
+            "type": "color"
           }
         },
         "brandthird": {
           "50": {
-            "value": "#FAEBF9",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.50}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.50"
           },
           "100": {
-            "value": "#F4D2F2",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.100}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.100"
           },
           "200": {
-            "value": "#EAA9E6",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.200}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.200"
           },
           "300": {
-            "value": "#DE7CD9",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.300}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.300"
           },
           "400": {
-            "value": "#D454CE",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{core.color.modifier.400}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.400"
           },
           "500": {
-            "value": "#C030BA",
+            "value": "{core.color.brandspallette.brandthird.base}",
             "type": "color",
             "description": "Color.palette.brandthird.500\n(base for brandThird)"
           },
           "600": {
-            "value": "#9B2795",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.600}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.600"
           },
           "700": {
-            "value": "#721D6E",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.700}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.700"
           },
           "800": {
-            "value": "#4E134B",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.800}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.800"
           },
           "900": {
-            "value": "#250923",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.900}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.900"
           },
           "950": {
-            "value": "#140514",
+            "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{core.color.modifier.950}",
+                  "space": "lch"
+                }
+              }
+            },
             "description": "Color.palette.brandthird.950"
+          },
+          "base": {
+            "value": "#C030BA",
+            "type": "color"
           }
         },
         "brandfourth": {
@@ -1182,6 +1469,11 @@
         "type": "color"
       },
       "modifier": {
+        "50": {
+          "value": "0.9",
+          "type": "color",
+          "description": "in test phase"
+        },
         "100": {
           "value": "0.8",
           "type": "color"
@@ -1189,6 +1481,35 @@
         "200": {
           "value": "0.6",
           "type": "color"
+        },
+        "300": {
+          "value": "0.4",
+          "type": "color"
+        },
+        "400": {
+          "value": "0.2",
+          "type": "color"
+        },
+        "600": {
+          "value": "0.2",
+          "type": "color"
+        },
+        "700": {
+          "value": "0.4",
+          "type": "color"
+        },
+        "800": {
+          "value": "0.6",
+          "type": "color"
+        },
+        "900": {
+          "value": "0.8",
+          "type": "color"
+        },
+        "950": {
+          "value": "0.9",
+          "type": "color",
+          "description": "in test phase"
         }
       }
     },

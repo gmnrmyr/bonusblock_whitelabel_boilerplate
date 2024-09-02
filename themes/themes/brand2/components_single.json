@@ -5,7 +5,7 @@
         "primary": {
           "idle": {
             "background": {
-              "value": "{color.palette.primary.500}",
+              "value": "{color.palette.primary.800}",
               "type": "color"
             },
             "foreground": {
@@ -331,7 +331,7 @@
         },
         "disclaimer": {
           "primaryfaded": {
-            "value": "{color.palette.primary.200}",
+            "value": "{color.palette.primary.700}",
             "type": "color"
           }
         },
