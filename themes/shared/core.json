@@ -1083,6 +1083,16 @@
             "type": "color",
             "description": "Color.palette.brandfifth.950"
           }
+        },
+        "brandgradient": {
+          "primary": {
+            "value": "linear-gradient(90deg, #C7D605 0%, #00D254 100.16%)",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "linear-gradient(0deg, #FFFD37, #FFFD37)",
+            "type": "color"
+          }
         }
       },
       "system": {
@@ -1170,6 +1180,16 @@
       "black": {
         "value": "#000",
         "type": "color"
+      },
+      "modifier": {
+        "100": {
+          "value": "0.8",
+          "type": "color"
+        },
+        "200": {
+          "value": "0.6",
+          "type": "color"
+        }
       }
     },
     "missioncard": {
