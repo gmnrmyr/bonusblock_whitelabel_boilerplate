@@ -445,7 +445,7 @@
         "md": {
           "idle": {
             "value": {
-              "fontFamily": "{core.font-family.primary.body}",
+              "fontFamily": "{core.font-family.primary.caption}",
               "fontWeight": "{base.font-weight.regular}",
               "fontSize": "{core.font-size.ennumerated.2}"
             },
@@ -465,7 +465,7 @@
         "sm": {
           "idle": {
             "value": {
-              "fontFamily": "{core.font-family.primary.body}",
+              "fontFamily": "{core.font-family.primary.caption}",
               "fontWeight": "{base.font-weight.regular}",
               "fontSize": "{core.font-size.ennumerated.1}"
             },
@@ -485,7 +485,7 @@
         "lg": {
           "idle": {
             "value": {
-              "fontFamily": "{core.font-family.primary.body}",
+              "fontFamily": "{core.font-family.primary.caption}",
               "fontWeight": "{base.font-weight.regular}",
               "fontSize": "{core.font-size.ennumerated.3}"
             },

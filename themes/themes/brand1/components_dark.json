@@ -23,6 +23,10 @@
                 "value": "rgba({color.palette.primary.200}, {core.opacity.700})",
                 "type": "color"
               },
+              "backgrounddarker": {
+                "value": "rgba({color.palette.primary.800}, {core.opacity.800})",
+                "type": "color"
+              },
               "foreground": {
                 "value": "{color.palette.primary.500}",
                 "type": "color"
@@ -345,11 +349,16 @@
             "type": "color"
           },
           "lightmode": {
-            "value": "{color.palette.primary.50}",
-            "type": "color"
+            "value": "{color.palette.primary.950}",
+            "type": "color",
+            "description": "old 50"
           },
           "black": {
             "value": "{color.palette.white}",
+            "type": "color"
+          },
+          "total": {
+            "value": "{color.palette.black}",
             "type": "color"
           }
         }

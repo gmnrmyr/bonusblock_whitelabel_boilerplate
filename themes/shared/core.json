@@ -338,7 +338,7 @@
     "font-family": {
       "primary": {
         "titles": {
-          "value": "Founders Grotesk",
+          "value": "Inter",
           "type": "fontFamilies",
           "description": "core.font-family.primary.main"
         },
@@ -348,7 +348,7 @@
           "description": "core.font-family.primary.body"
         },
         "caption": {
-          "value": "Inter",
+          "value": "Roboto",
           "type": "fontFamilies",
           "description": "core.font-family.primary.caption"
         },
@@ -807,6 +807,7 @@
           "50": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "Color.palette.brandprim.50\nin test phase",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -815,12 +816,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandprim.50\nin test phase"
+            }
           },
           "100": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "Color.palette.brandprim.100",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -829,12 +830,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandprim.100"
+            }
           },
           "200": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "Color.palette.brandprim.200\nold #B0CCFC",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -843,12 +844,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandprim.200\nold #B0CCFC"
+            }
           },
           "300": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "Color.palette.brandprim.300",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -857,12 +858,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandprim.300"
+            }
           },
           "400": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "Color.palette.brandprim.400\nold #669CF9",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -871,8 +872,7 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandprim.400\nold #669CF9"
+            }
           },
           "500": {
             "value": "{core.color.brandspallette.brandprim.base}",
@@ -882,6 +882,7 @@
           "600": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "Color.palette.brandprim.600\nold #095EF1",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -890,12 +891,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandprim.600\nold #095EF1"
+            }
           },
           "700": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "Color.palette.brandprim.700",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -904,12 +905,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandprim.700"
+            }
           },
           "800": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "color.pallete.brandprim.800",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -918,12 +919,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "color.pallete.brandprim.800"
+            }
           },
           "900": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "Color.palette.brandprim.900",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -932,12 +933,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandprim.900"
+            }
           },
           "950": {
             "value": "{core.color.brandspallette.brandprim.500}",
             "type": "color",
+            "description": "Color.palette.brandprim.950",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -946,8 +947,7 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandprim.950"
+            }
           },
           "base": {
             "value": "#3F83F8",
@@ -959,6 +959,7 @@
           "50": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.50",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -967,12 +968,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.50"
+            }
           },
           "100": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.100",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -981,12 +982,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.100"
+            }
           },
           "200": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.200",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -995,12 +996,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.200"
+            }
           },
           "300": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.300",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1009,12 +1010,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.300"
+            }
           },
           "400": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.400",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1023,8 +1024,7 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.400"
+            }
           },
           "500": {
             "value": "{core.color.brandspallette.brandsecond.base}",
@@ -1034,6 +1034,7 @@
           "600": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.600",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1042,12 +1043,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.600"
+            }
           },
           "700": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.700",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1056,12 +1057,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.700"
+            }
           },
           "800": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.800",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1070,12 +1071,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.800"
+            }
           },
           "900": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.900",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1084,12 +1085,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.900"
+            }
           },
           "950": {
             "value": "{core.color.brandspallette.brandsecond.500}",
             "type": "color",
+            "description": "Color.palette.brandsecond.950",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1098,8 +1099,7 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandsecond.950"
+            }
           },
           "base": {
             "value": "#96C463",
@@ -1110,6 +1110,7 @@
           "50": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.50",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1118,12 +1119,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.50"
+            }
           },
           "100": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.100",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1132,12 +1133,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.100"
+            }
           },
           "200": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.200",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1146,12 +1147,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.200"
+            }
           },
           "300": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.300",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1160,12 +1161,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.300"
+            }
           },
           "400": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.400",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1174,8 +1175,7 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.400"
+            }
           },
           "500": {
             "value": "{core.color.brandspallette.brandthird.base}",
@@ -1185,6 +1185,7 @@
           "600": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.600",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1193,12 +1194,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.600"
+            }
           },
           "700": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.700",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1207,12 +1208,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.700"
+            }
           },
           "800": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.800",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1221,12 +1222,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.800"
+            }
           },
           "900": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.900",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1235,12 +1236,12 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.900"
+            }
           },
           "950": {
             "value": "{core.color.brandspallette.brandthird.500}",
             "type": "color",
+            "description": "Color.palette.brandthird.950",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
@@ -1249,8 +1250,7 @@
                   "space": "lch"
                 }
               }
-            },
-            "description": "Color.palette.brandthird.950"
+            }
           },
           "base": {
             "value": "#C030BA",
@@ -1695,28 +1695,34 @@
     },
     "font-weight": {
       "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
+        "value": "700",
+        "type": "fontWeights",
+        "description": "old Bold"
       },
       "medium": {
-        "value": "Medium",
-        "type": "fontWeights"
+        "value": "500",
+        "type": "fontWeights",
+        "description": "old Medium"
       },
       "semibold": {
-        "value": "Semi Bold",
-        "type": "fontWeights"
+        "value": "600",
+        "type": "fontWeights",
+        "description": "old Semi Bold"
       },
       "extrabold": {
-        "value": "Extra Bold",
-        "type": "fontWeights"
+        "value": "800",
+        "type": "fontWeights",
+        "description": "old Extra Bold"
       },
       "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
+        "value": "400",
+        "type": "fontWeights",
+        "description": "old Regular"
       },
       "light": {
-        "value": "Light",
-        "type": "fontWeights"
+        "value": "300",
+        "type": "fontWeights",
+        "description": "old Light"
       }
     }
   }

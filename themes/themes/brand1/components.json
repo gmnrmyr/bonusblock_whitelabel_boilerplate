@@ -30,6 +30,10 @@
               "border": {
                 "value": "rgba({color.palette.primary.200}, {core.opacity.transparent})",
                 "type": "color"
+              },
+              "backgrounddarker": {
+                "value": "rgba({color.palette.primary.200}, {core.opacity.200})",
+                "type": "color"
               }
             },
             "hover": {
@@ -260,8 +264,9 @@
           "type": "color"
         },
         "primarylighter": {
-          "value": "{color.palette.primary.50}",
-          "type": "color"
+          "value": "{color.palette.primary.950}",
+          "type": "color",
+          "description": "old {color.palette.primary.50}"
         }
       },
       "card": {
@@ -345,11 +350,16 @@
             "type": "color"
           },
           "lightmode": {
-            "value": "{color.palette.primary.950}",
-            "type": "color"
+            "value": "{color.palette.primary.50}",
+            "type": "color",
+            "description": "old {color.palette.primary.950}"
           },
           "black": {
             "value": "{color.palette.black}",
+            "type": "color"
+          },
+          "total": {
+            "value": "{color.palette.white}",
             "type": "color"
           }
         }

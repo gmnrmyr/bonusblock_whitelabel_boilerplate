@@ -30,6 +30,10 @@
               "border": {
                 "value": "rgba({color.palette.primary.200}, {core.opacity.transparent})",
                 "type": "color"
+              },
+              "backgrounddarker": {
+                "value": "rgba({color.palette.primary.900}, {core.opacity.900})",
+                "type": "color"
               }
             },
             "hover": {
@@ -350,6 +354,10 @@
           },
           "black": {
             "value": "{core.color.black}",
+            "type": "color"
+          },
+          "total": {
+            "value": "{color.palette.black}",
             "type": "color"
           }
         }
