@@ -338,7 +338,7 @@
     "font-family": {
       "primary": {
         "titles": {
-          "value": "Inter",
+          "value": "Founders Grotesk",
           "type": "fontFamilies",
           "description": "core.font-family.primary.main"
         },
