@@ -5,11 +5,11 @@
         "primary": {
           "idle": {
             "background": {
-              "value": "{color.palette.primary.500}",
+              "value": "{color.palette.primary.300}",
               "type": "color"
             },
             "foreground": {
-              "value": "{color.palette.primary.50}",
+              "value": "{color.palette.primary.950}",
               "type": "color"
             },
             "border": {
@@ -65,7 +65,7 @@
               "type": "color"
             },
             "foreground": {
-              "value": "{color.palette.secondary.50}",
+              "value": "{color.palette.secondary.950}",
               "type": "color"
             },
             "border": {
@@ -226,7 +226,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{color.palette.secondary.500}",
+          "value": "{color.palette.secondary.700}",
           "type": "color"
         },
         "accent": {
@@ -300,6 +300,10 @@
         "backgrounddarkerprimary": {
           "value": "{color.palette.primary.600}",
           "type": "color"
+        },
+        "darkestcolor": {
+          "value": "{color.palette.primary.50}",
+          "type": "color"
         }
       },
       "icon": {
@@ -331,7 +335,7 @@
         },
         "disclaimer": {
           "primaryfaded": {
-            "value": "{color.palette.primary.200}",
+            "value": "{color.palette.primary.700}",
             "type": "color"
           }
         },
@@ -417,6 +421,15 @@
         "value": {
           "backgroundBlur": "10",
           "boxShadow": "{base.boxShadow.bbstyle.primary.lg}"
+        },
+        "type": "composition"
+      },
+      "blur_and_shadow_alt": {
+        "value": {
+          "backgroundBlur": "10",
+          "boxShadow": "{base.boxShadow.bbstyle.primary.lg}",
+          "fill": "{color.palette.primary.950}",
+          "opacity": "{core.opacity.900}"
         },
         "type": "composition"
       }

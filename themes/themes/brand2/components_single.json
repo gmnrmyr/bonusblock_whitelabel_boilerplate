@@ -300,6 +300,10 @@
         "backgrounddarkerprimary": {
           "value": "{color.palette.primary.600}",
           "type": "color"
+        },
+        "darkestcolor": {
+          "value": "{color.palette.primary.50}",
+          "type": "color"
         }
       },
       "icon": {
@@ -427,6 +431,15 @@
           },
           "type": "composition"
         }
+      },
+      "blur_and_shadow_alt": {
+        "value": {
+          "backgroundBlur": "10",
+          "boxShadow": "{base.boxShadow.bbstyle.primary.lg}",
+          "fill": "{color.palette.primary.950}",
+          "opacity": "{core.opacity.900}"
+        },
+        "type": "composition"
       }
     }
   }
