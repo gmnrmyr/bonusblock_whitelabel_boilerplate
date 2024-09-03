@@ -263,6 +263,10 @@
           "value": "{color.palette.primary.300}",
           "type": "color"
         },
+        "ultraimposedblack": {
+          "value": "{core.color.black}",
+          "type": "color"
+        },
         "primarylighter": {
           "value": "{color.palette.primary.50}",
           "type": "color"
@@ -438,6 +442,14 @@
           "backgroundBlur": "10",
           "boxShadow": "{base.boxShadow.bbstyle.primary.lg}",
           "fill": "{color.palette.primary.950}"
+        },
+        "type": "composition"
+      },
+      "blurred_card_only_fix": {
+        "value": {
+          "backgroundBlur": "80",
+          "fill": "{color.palette.neutral.950}",
+          "opacity": "30%"
         },
         "type": "composition"
       },

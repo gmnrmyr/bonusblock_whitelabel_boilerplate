@@ -267,6 +267,10 @@
           "value": "{color.palette.primary.950}",
           "type": "color",
           "description": "old {color.palette.primary.50}"
+        },
+        "ultraimposedblack": {
+          "value": "{core.color.black}",
+          "type": "color"
         }
       },
       "card": {
@@ -440,6 +444,12 @@
           "boxShadow": "{base.boxShadow.bbstyle.primary.lg}",
           "fill": "{color.palette.primary.950}",
           "opacity": "{core.opacity.900}"
+        },
+        "type": "composition"
+      },
+      "blurred_card_only_fix": {
+        "value": {
+          "backgroundBlur": "80"
         },
         "type": "composition"
       }
