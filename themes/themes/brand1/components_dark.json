@@ -41,6 +41,24 @@
                 "value": "rgba({color.palette.primary.200}, {core.opacity.900})",
                 "type": "color"
               }
+            },
+            "idleneural": {
+              "background": {
+                "value": "rgba({color.palette.neutral.200}, {core.opacity.700})",
+                "type": "color"
+              },
+              "backgrounddarker": {
+                "value": "rgba({color.palette.neutral.800}, {core.opacity.800})",
+                "type": "color"
+              },
+              "foreground": {
+                "value": "{color.palette.neutral.500}",
+                "type": "color"
+              },
+              "border": {
+                "value": "rgba({color.palette.neutral.200}, {core.opacity.transparent})",
+                "type": "color"
+              }
             }
           },
           "solid": {
