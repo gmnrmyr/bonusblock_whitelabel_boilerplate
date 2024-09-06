@@ -55,6 +55,10 @@
                 "value": "{color.palette.neutral.500}",
                 "type": "color"
               },
+              "ultrablur_test": {
+                "value": "rgba( {color.palette.neutral.950}, {core.opacity.100})",
+                "type": "color"
+              },
               "border": {
                 "value": "rgba({color.palette.neutral.200}, {core.opacity.transparent})",
                 "type": "color"
@@ -443,6 +447,17 @@
               "type": "dropShadow"
             },
             "type": "boxShadow"
+          },
+          "lgaccent": {
+            "value": {
+              "x": "3",
+              "y": "5",
+              "blur": "0",
+              "spread": "0",
+              "color": "{color.palette.secondary.500}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
           }
         }
       }
@@ -481,6 +496,12 @@
         "2": {
           "value": {
             "backgroundBlur": "20"
+          },
+          "type": "composition"
+        },
+        "3": {
+          "value": {
+            "backgroundBlur": "30"
           },
           "type": "composition"
         }

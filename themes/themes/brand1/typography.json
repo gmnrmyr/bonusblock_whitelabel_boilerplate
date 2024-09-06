@@ -260,7 +260,7 @@
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.regular}",
               "fontSize": "{core.font-size.ennumerated.6}",
-              "letterSpacing": "12"
+              "letterSpacing": "1"
             },
             "type": "typography",
             "description": "values to be defined"
@@ -270,7 +270,7 @@
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.medium}",
               "fontSize": "{core.font-size.ennumerated.6}",
-              "letterSpacing": "12"
+              "letterSpacing": "1"
             },
             "type": "typography",
             "description": "values to be defined"
@@ -280,7 +280,7 @@
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.semibold}",
               "fontSize": "{core.font-size.ennumerated.6}",
-              "letterSpacing": "12"
+              "letterSpacing": "1"
             },
             "type": "typography",
             "description": "values to be defined"
@@ -290,7 +290,7 @@
               "fontFamily": "{core.font-family.primary.body}",
               "fontWeight": "{base.font-weight.bold}",
               "fontSize": "{core.font-size.ennumerated.6}",
-              "letterSpacing": "12"
+              "letterSpacing": "1"
             },
             "type": "typography",
             "description": "values to be defined"

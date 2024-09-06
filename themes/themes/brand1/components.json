@@ -58,6 +58,10 @@
               "border": {
                 "value": "rgba({color.palette.primary.200}, {core.opacity.transparent})",
                 "type": "color"
+              },
+              "ultrablur_test": {
+                "value": "rgba( {color.palette.neutral.950}, {core.opacity.900})",
+                "type": "color"
               }
             }
           },
@@ -444,6 +448,17 @@
               "type": "dropShadow"
             },
             "type": "boxShadow"
+          },
+          "lgaccent": {
+            "value": {
+              "x": "3",
+              "y": "5",
+              "blur": "0",
+              "spread": "0",
+              "color": "{color.palette.secondary.500}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
           }
         }
       }
@@ -470,6 +485,14 @@
           "backgroundBlur": "80"
         },
         "type": "composition"
+      },
+      "bgblur": {
+        "3": {
+          "value": {
+            "backgroundBlur": "30"
+          },
+          "type": "composition"
+        }
       }
     }
   }
